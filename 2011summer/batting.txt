@@ -75,7 +75,7 @@ game, inning, batter,   runners, outs, outcome
 3,    6,      Jeffrey,  1-3,     0,    F7
 3,    6,      Cathy,    1-3,     1,    F?
 3,    6,      FrankF,   1-3,     2,    1B.3-H;1-2
-3,    6,      Svetlana, 12-,     2,    FC(6-5)
+3,    6,      Svetlana, 12-,     2,    FC(6-5).2X3
 4,    1,      Mario,    ---,     0,    1B
 4,    1,      Sarah,    1--,     0,    F5
 4,    1,      Will,     1--,     1,    2B.1-H
@@ -97,7 +97,7 @@ game, inning, batter,   runners, outs, outcome
 4,    5,      FrankH,   1--,     1,    1B.1-2
 4,    5,      Cathy,    12-,     1,    W.2-3;1-2
 4,    5,      Cole,     123,     1,    1B.3-H;2XH;1-2
-4,    5,      Donna,    12-,     2,    FC(U6)
+4,    5,      Donna,    12-,     2,    FC(U6).1X2
 5,    1,      Mario,    ---,     0,    1-3
 5,    1,      Adiba,    ---,     1,    F2
 5,    1,      Will,     ---,     2,    Ks

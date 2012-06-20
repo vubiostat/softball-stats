@@ -1,5 +1,7 @@
 options(digits=4)
 
+na0 <- function(x) { ifelse(is.na(x), 0, x) }
+
 read <- function(file, ...) {
     read.csv(file, comment.char='#', strip.white=TRUE, ...)
 }
@@ -13,14 +15,18 @@ join <- function(files) {
     df[order(as.character(df$batter), as.character(df$season)),]
 }
 
+averages <- function(stats) {
+    # recalculate averages
+    stats$BA  <- with(stats, round(na0(H / AB), 3))
+    stats$OBP <- with(stats, round(na0((H + BB)/(AB + BB + SF)), 3))
+    stats$SLG <- with(stats, round(na0((H + X2B + X3B*2 + HR*3)/AB), 3))
+    stats$OPS <- with(stats, round(na0(OBP + SLG), 3))
+    stats
+}
+
 compile <- function(stats, by) {
     # tally
-    result <- aggregate(stats, by=by, FUN=sum)
-    # recalculate averages
-    result$BA <- with(result, round(H / AB, 3))
-    result$OBP <- with(result, round((H + BB)/(AB + BB + SF), 3))
-    result$SLG <- with(result, round((H + X2B + X3B*2 + HR*3)/AB, 3))
-    result$OPS <- with(result, round(OBP + SLG, 3))
+    result <- averages(aggregate(stats, by=by, FUN=sum))
     # sub-set sizes
     result <- cbind(result[1:length(by)], games=structure(unclass(table(by)), dimnames=NULL), result[-c(1:length(by))])
     # rename sub-set category as appropriate

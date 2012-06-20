@@ -164,7 +164,7 @@ game, inning, batter,   runners, outs, outcome
 6,    6,      Mark,     ---,     1,    F4
 6,    6,      Jennifer, ---,     2,    1B
 6,    6,      Jeffrey,  1--,     2,    W.1-2
-6,    6,      Tiffany,  12-,     2,    FC(6-5)
+6,    6,      Tiffany,  12-,     2,    FC(6-5).2X3
 7,    1,      Cole,     ---,     0,    HR
 7,    1,      Sarah,    ---,     0,    L1
 7,    1,      Mark,     ---,     1,    F7
