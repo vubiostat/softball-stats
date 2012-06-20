@@ -18,7 +18,7 @@ function! ReformatStats()
   if firstline =~? '\<inn\>'
     let l:col_skip +=1
   endif
-  " for BA, OBP, SLG, OPS:
+  " format BA, OBP, SLG, OPS:
   " turn 0 into 0.000 -- next command should handle this
   " %substitute/\(\(,[^,]\{-}\)\{14}\)\@<=\<0\>/&.000/g
   " add .000 when missing

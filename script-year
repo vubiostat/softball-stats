@@ -1,5 +1,6 @@
 #!/bin/zsh
 # run from season sub-folder or pass parameter
+# update season stats
 if [[ -n $1 ]]
 then
     cd $1

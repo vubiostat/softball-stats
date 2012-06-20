@@ -1,6 +1,6 @@
 #!/bin/zsh
 # run from from top level
-# update career stats, call upload script
+# update cross-season stats, call upload script
 files=(batting_stats.txt batting_stats_season.txt batting_stats_career.txt team_batting_stats.txt team_batting_stats_season.txt)
 for file in $files
     mv $file{,.old}
