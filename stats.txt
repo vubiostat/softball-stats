@@ -1,0 +1,28 @@
+game_id: game id
+date: game date
+[lineup_id: lineup id]
+number: plate appearance sequence in game
+inning: game inning
+result:
+  1B:  single (hit)
+  2B:  double (hit)
+  3B:  triple (hit)
+  HR:  home run (hit)
+  W:   base on balls
+  W+:  free walk for woman following no-strike at-bat for man
+  FC:  fielder's choice
+  SF:  sacrifice fly (runner scores)
+  SH:  sacrifice hit (runner advances)
+  Kc:  strike out (called)
+  Ks:  strike out (swinging)
+  Kf:  strike out (foul)
+  FO:  force out
+  PO:  put out
+  IFR: infield fly rule
+RBI: runs batted in
+furthest: furthest base safely reached (4 = run scored)
+runners: runners on base
+  1: first base
+  2: second base
+  3: third base
+outs: number of outs
