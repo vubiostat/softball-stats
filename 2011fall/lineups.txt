@@ -1,0 +1,71 @@
+   1 - 20110913
+ 1 Mario LC -> Seth LC
+ 2 Michelle LF
+ 3 Cole SS/P
+ 4 Sarah 3B/RC
+ 5 Jeffrey 1B
+ 6 Donna 2B
+ 7 Tatsuki RC/SS
+ 8 Linda CA
+ 9 Will P/SS -> FrankH 3B
+10 Audrey RF
+   ----
+   3 - 20110915
+ 1 Cole P
+ 2 Michelle LF
+ 3 Dustin 1B
+ 4 Sarah 2B
+ 5 Seth CF
+ 6 Kylie CA
+ 7 Tatsuki 3B
+ 8 Kelly RF
+ 9 FrankF SS
+   ----
+   4 - 20110920
+ 1 Tatsuki 3B -> Will 3B
+ 2 Sarah RF
+ 3 Jeffrey 1B
+ 4 Michelle LF
+ 5 Seth CF -> Mario CF
+ 6 Leena 2B
+ 7 FrankF SS -> Chris SS
+ 8 Kelly CA -> Kylie CA -> Kelly CA
+ 9 Cole P
+   ----
+   2- 20110922
+ 1 Will P/RF
+ 2 Sarah 3B
+ 3 Jeffrey 1B
+ 4 Michelle LF
+ 5 FrankF SS
+ 6 Leena 2B
+ 7 Cole RC/RF
+ 8 Tina RF/RC
+ 9 Seth LC
+10 Kylie CA
+   ----
+   5 - 20110927
+ 1 Cole P
+ 2 Sarah 3B/2B
+ 3 FrankF SS -> Jeffrey 1B
+ 4 Michelle LF
+ 5 Seth LC
+ 6 Svetlana RF
+ 7 FrankH 1B/3B
+ 8 Leena 2B -> Kylie RC
+ 9 Tatsuki RC/SS
+10 Kelly CA
+   ----
+   6 - 20110929
+ 1 Will RC/SS/EH/1B
+ 2 Sarah 3B
+ 3 Cole P
+ 4 Michelle LF
+ 5 Jeffrey 1B/EH
+ 6 Kylie RF/EH
+ 7 Seth LC/EH/SS
+ 8 Leena 2B
+ 9 FrankH EH/RC
+10 Kelly CA
+11 Tatsuki SS/EH -> Mario EH/LC
+12 Tina EH/RF

@@ -1,0 +1,10 @@
+#!/bin/zsh
+# run from season sub-folder or pass parameter
+# call year and career scripts
+if [[ -n $1 ]]
+then
+    cd $1
+fi
+../script-year
+cd ..
+./script-career

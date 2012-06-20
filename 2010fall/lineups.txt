@@ -1,0 +1,52 @@
+   2 - 20100916
+ 1 Seth LC
+ 2 Sarah CA
+ 3 Jeffrey 1B
+ 4 Donna 3B
+ 5 FrankF SS
+ 6 Pei-Fang RF
+ 7 Charlie P
+ 8 Meridith RC
+ 9 Will LF
+10 Bashar 2B
+   ----
+    4 - 20100923
+ 1 Mario LC
+ 2 Cathy 3B
+ 3 Cole SS/LF
+ 4 Nicole 2B
+ 5 Jeffrey 1B
+ 6 Sarah CA
+ 7 Sandeep RC
+ 8 Donna EH
+ 9 Will P
+10 Sharon RF
+11 Chris LF/SS
+12 Kylie EH
+   Charlie BN
+   ----
+   5 - 20100929
+ 1 Mario LC -> Bryan LC
+ 2 Svetlana RF
+ 3 Jeffrey 1B -> Sandeep LF
+ 4 Sarah CA
+ 5 Will P -> Charlie P
+ 6 Nicole 2B
+ 7 Seth LF/1B
+ 8 Kylie RC
+ 9 Cole SS
+10 Donna 3B
+   ----
+   6 - 20100930
+ 1 Mario LC
+ 2 Donna EH
+ 3 Bashar RC -> Charlie RC
+ 4 Nicole 2B
+ 5 Jeffrey 1B
+ 6 Meridith CA
+ 7 Will P
+ 8 Sharon RF
+ 9 Chris LF/SS
+10 Elizabeth 3B
+11 Cole SS/LF
+12 Eve EH

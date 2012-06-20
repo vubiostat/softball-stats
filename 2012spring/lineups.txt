@@ -1,0 +1,39 @@
+   1 - 20120417
+ 1 Cole P
+ 2 Sarah RC
+ 3 Seth LC
+ 4 Michelle LF
+ 5 Tatsuki 1B
+ 6 Nicole 2B
+ 7 FrankF SS
+ 8 Cathy RF
+ 9 Will 3B
+10 Kelly CA
+11 Jeffrey EH
+12 Amy EH
+   ----
+   2 - 20120418a
+ 1 Cole 3B/P
+ 2 Sarah RC
+ 3 Seth LC
+ 4 Michelle LF
+ 5 FrankF SS
+ 6 Nicole 2B
+ 7 Tatsuki 1B
+ 8 Cathy RF
+ 9 Will P/3B
+10 Kylie CA
+11 Jeffrey EH
+12 Amy EH
+   ----
+   3 - 20120418b
+ 1 FrankF SS
+ 2 Sarah 2B
+ 3 Seth CF/LC
+ 4 Michelle LF
+ 5 Jeffrey 1B
+ 6 Kylie CA -> Kelly CA
+ 7 Will P
+ 8 Amy RF/RC
+ 9 Tatsuki 3B -> Jiang 3B
+10 Tina RF

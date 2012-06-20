@@ -1,0 +1,6 @@
+#!/bin/zsh
+# run from from top level
+# call year and career scripts
+for dir in $(find *(/) -name batting_stats.txt -printf '%h ')
+    ./script-year $dir
+./script-career

@@ -1,0 +1,4 @@
+#!/bin/zsh
+# run from from top level
+# upload files to web server
+tar zc $(ls **/*.txt) | ssh data "cd public_html/intramurals/softball; tar zx"

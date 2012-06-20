@@ -1,0 +1,102 @@
+   1 - 20110517
+ 1 Mario LC
+ 2 Cathy RF -> Kelly RF
+ 3 Cole 1B
+ 4 Meridith EH
+ 5 FrankF SS
+ 6 Adiba 3B
+ 7 Will P
+ 8 Leena 2B
+ 9 Seth RC
+10 Svetlana CA
+11 FrankH LF
+12 Tina EH
+   Kylie BN
+   ----
+   2 - 20110524
+ 1 Cole CA/3B/P
+ 2 Cathy 2B
+ 3 Seth LC
+ 4 Michelle LF
+ 5 Jeffrey 1B
+ 6 Casey 3B/EH
+ 7 FrankF SS
+ 8 Donna RF/EH
+ 9 Dan RC
+10 Kelly EH/RF
+11 Will P/3B
+12 Leena EH/CA
+   ----
+   4 - 20110531
+ 1 Cole RC -> FrankH RC
+ 2 Adiba 3B
+ 3 Seth LC
+ 4 Michelle LF -> Donna LF
+ 5 Will P
+ 6 Tina RF -> Kelly RF
+ 7 Jeffrey 1B
+ 8 Leena 2B -> Cathy 2B
+ 9 FrankF SS
+10 Sarah CA -> Svetlana CA
+   ----
+   5 - 20110609
+ 1 Mario LC
+ 2 Sarah CA
+ 3 Will P/1B/RC
+ 4 Sharon 3B/EH
+ 5 Dan SS -> JeffreyX 3B
+ 6 Svetlana LF
+ 7 FrankH RC/1B
+ 8 Cathy 2B
+ 9 Cole 1B/P
+10 Donna RF/EH
+11 John EH/SS
+12 Kelly EH/RF
+   ----
+   6 - 20110614
+ 1 Mario LC
+ 2 Adiba 3B
+ 3 Will P
+ 4 Sarah CA
+ 5 Seth RC
+ 6 Michelle LF/2B
+ 7 FrankF SS
+ 8 Cathy 2B -> Kelly RF
+ 9 Cole 1B
+10 Audrey RF -> Meridith RF/LF
+   ----
+
+ 1 Cole P
+ 2 Michelle LF
+ 3 Mario LC
+ 4 Cathy 3B
+ 5 Jeffrey 1B
+ 6 Tori 2B
+ 7 Seth RC
+ 8 Kelly RF
+ 9 FrankF SS
+10 Kylie CA
+   ----
+   11 - 20110719
+ 1 Mario LC
+ 2 Adiba 3B
+ 3 Seth RC
+ 4 Sarah CA
+ 5 Jeffrey 1B/SS
+ 6 Leena RF -> Kelly RF
+ 7 FrankH LF
+ 8 Cathy 2B
+ 9 Will P/SS
+10 Cole SS/1B/P
+   ----
+   12 - 20110721
+ 1 Will P
+ 2 Sarah CA
+ 3 Jeffrey 1B
+ 4 Cathy 2B
+ 5 Seth CF
+ 6 Michelle LF
+ 7 FrankH 3B
+ 8 Adiba RF -> Kelly RF
+ 9 FrankF SS
+10 Cole SF

@@ -1,0 +1,113 @@
+   1 - 20100525
+ 1 Seth LC
+ 2 Leena 2B
+ 3 FrankF LF
+ 4 Svetlana CA
+ 5 Jeremy SS
+ 6 Kylie RC
+ 7 Jeffrey 1B
+ 8 Elizabeth 3B
+ 9 Will P
+10 Donna RF
+   ----
+   2 - 20100601
+ 1 Cole SS/P
+ 2 Cathy SF
+ 3 FrankF CF/LC
+ 4 Casey 3B
+ 5 Jeffrey 1B -> FrankH 1B
+ 6 Leena 2B
+ 7 Seth LF -> Rafe LF/SS
+ 8 Kylie CA -> Svetlana CA
+ 9 Will P/SS/LF
+10 Jeremy RF
+   AmyW BN
+   ----
+   3 - 20100603
+ 1 FrankF SS -> Jeremy SS
+ 2 Leena 2B
+ 3 Will P -> Bryan LF
+ 4 Elizabeth 3B
+ 5 Seth LC
+ 6 Meridith RF
+ 7 Tatsuki 1B
+ 8 Donna RC -> AmyW RC
+ 9 Cole LF/P
+10 FrankH CA
+   ----
+   4 - 20100608
+ 1 FrankF SS -> Jeremy SS
+ 2 Cathy 3B
+ 3 Tatsuki 1B -> Jeffrey 1B
+ 4 Audrey SF -> Leena 2B
+ 5 Rafe LF -> Seth LF
+ 6 Svetlana CA
+ 7 FrankH RF/RC -> Bashar RC
+ 8 Kylie 2B/RF
+ 9 Mario LC
+10 Will P -> Cole P
+   ----
+   5 - 20100615
+ 1 Mario LC
+ 2 Leena 2B
+ 3 Jeffrey 1B -> Bashar 1B
+ 4 Donna LF
+ 5 Will P
+ 6 Elizabeth 3B
+ 7 Seth LF
+ 8 Nicole RC
+ 9 Chris SS
+10 Kylie CA
+   ----
+   6 - 20100629
+ 1 Cole 1B
+ 2 Nicole RC
+ 3 FrankF LC
+ 4 Leena 2B
+ 5 Will P
+ 6 Donna RF
+ 7 Seth LF
+ 8 Sarah CA
+ 9 Chris SS
+10 Elizabeth 3B
+   AmyW BN
+   ----
+   7 - 20100701
+ 1 Cole SS -> FrankF SS
+ 2 Leena 2B
+ 3 Jeffrey 1B
+ 4 Nicole LF
+ 5 Seth LC
+ 6 Donna RF
+ 7 Jeremy RC -> Rafe RC
+ 8 AmyW 3B
+ 9 FrankH CA
+10 Will P -> Cole P
+   ----
+   8 - 20100715
+ 1 FrankH RC -> Bashar RC
+ 2 Nicole 3B
+ 3 Will P -> Cole P
+ 4 Sarah CA
+ 5 Seth LC -> Zu-Wen LC
+ 6 Donna RF
+ 7 Jeffrey 1B
+ 8 Kylie 2B
+ 9 FrankF SS/LF -> Seth LF
+10 Chris LF/SS
+   Pei-Fang BN
+   Cathy BN
+   ----
+   11 - 20100727
+ 1 Mario LC
+ 2 Nicole 2B
+ 3 FrankF SS
+ 4 Sarah CA
+ 5 Jeffrey 1B
+ 6 Cathy 3B
+ 7 Seth LF -> Jeremy LF
+ 8 Leena RF -> Donna RF
+ 9 Cole P
+10 Will RC -> FrankH RC
+   Meridith BN
+   Kylie BN

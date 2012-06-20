@@ -1,0 +1,97 @@
+   1 - 20120517
+ 1 Cole P
+ 2 Sarah RF
+ 3 FrankF SS
+ 4 Michelle LF
+ 5 Will RC -> Jeffrey 1B
+ 6 Cathy 2B
+ 7 Seth LC
+ 8 Kelly CA
+ 9 Mark 3B -> Jiang RC
+10 Tatsuki 1B/3B
+   ----
+   2 - 20120522
+ 1 Cole P
+ 2 Michelle LF
+ 3 FrankF SS -> Will 3B
+ 4 Nicole 2B
+ 5 Mario LF
+ 6 Sarah RF
+ 7 Mark 3B/SS
+ 8 Kylie CA
+ 9 Jiang RC -> Seth RC
+10 Tatsuki 1B
+   ----
+   3 - 20120524
+ 1 Cole P
+ 2 Sarah LF
+ 3 FrankF SS
+ 4 Casey 2B/RC
+ 5 Jeffrey 1B
+ 6 Kylie CA/2B
+ 7 Jiang RC/RF
+ 8 Svetlana RF/CA
+ 9 Will 3B -> Mark 3B
+10 Seth LC
+   ----
+   4 - 20120531
+ 1 Cole P
+ 2 Sarah LF
+ 3 Mark SS
+ 4 Cathy 2B
+ 5 Will 3B
+ 6 Amy RF
+ 7 Jeremy RC
+ 8 Linda CA
+ 9 Seth LC
+10 Tatsuki 1B
+   ----
+   5 - 20120605
+ 1 Cole P
+ 2 Michelle LF
+ 3 Seth LC
+ 4 Sarah RF
+ 5 Jeffrey 1B
+ 6 Jennifer 2B
+ 7 Will RC/3B
+ 8 Cathy CA
+ 9 Jiang EH/RC
+10 Beth EH
+11 Tatsuki 3B/SS
+12 Mark 3B/EH
+   ----
+   6 - 20120607
+ 1 Tatsuki 3B
+ 2 Michelle LF
+ 3 Mark SS
+ 4 Jennifer 2B
+ 5 Jeffrey 1B
+ 6 Tiffany CA
+ 7 Jeremy RC -> Jiang RC
+ 8 Beth RF
+ 9 Seth LC
+10 Cole P
+   ----
+   7 - 20120614
+ 1 Cole P
+ 2 Sarah 3B
+ 3 Mark SS
+ 4 Jennifer 2B
+ 5 Jeffrey 1B
+ 6 Amy RF
+ 7 Seth LC
+ 8 Kylie CA
+ 9 Will RC
+10 Michelle LF
+   ----
+   8 - 20120619
+ 1 Cole P
+ 2 Michelle LF
+ 3 Jeffrey 1B
+ 4 Sarah RF
+ 5 Mark SS
+ 6 Cathy 2B/CA
+ 7 Will 3B
+ 8 Kylie CA -> Leena 2B
+ 9 Jeremy RC
+10 Seth LC
