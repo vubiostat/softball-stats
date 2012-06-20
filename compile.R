@@ -30,3 +30,7 @@ compile <- function(stats, by) {
     }
     result
 }
+
+reorder <- function(stats, columns) {
+    stats[do.call(order, stats[columns]),]
+}
