@@ -5,16 +5,17 @@ function! ReformatStats()
   " the number of stats
   let l:col_skip = 12
   " the row identifiers
-  if getline(1) =~? '\<seasons\=\>'
+  let firstline = getline(1)
+  if firstline =~? '\<seasons\=\>'
     let l:col_skip += 1
   endif
-  if getline(1) =~? '\<games\=\>'
+  if firstline =~? '\<games\=\>'
     let l:col_skip += 1
   endif
-  if getline(1) =~? '\<batters\=\>'
+  if firstline =~? '\<batters\=\>'
     let l:col_skip +=1
   endif
-  if getline(1) =~? '\<inn\>'
+  if firstline =~? '\<inn\>'
     let l:col_skip +=1
   endif
   " for BA, OBP, SLG, OPS:
