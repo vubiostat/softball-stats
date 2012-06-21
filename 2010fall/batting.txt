@@ -8,7 +8,7 @@ game, inning, batter,    runners, outs, outcome
 2,    2,      FrankF,    ---,     0,    F7
 2,    2,      Pei-Fang,  ---,     1,    1B
 2,    2,      Charlie,   1--,     1,    1B.1-2
-2,    2,      Meredith,  12-,     1,    ?.2-H;1-3
+2,    2,      Meridith,  12-,     1,    ?.2-H;1-3
 2,    2,      Will,      --3,     2,    1B.3-H
 2,    2,      Bashar,    1--,     2,    FC.1X2
 2,    3,      Seth,      ---,     0,    1B
@@ -18,7 +18,7 @@ game, inning, batter,    runners, outs, outcome
 2,    3,      FrankF,    1-3,     2,    1B.3-H;1-2
 2,    3,      Pei-Fang,  12-,     2,    FC.2X3
 2,    4,      Charlie,   ---,     0,    3B
-2,    4,      Meredith,  --3,     0,    5-3.3-H
+2,    4,      Meridith,  --3,     0,    5-3.3-H
 2,    4,      Will,      ---,     1,    F1
 2,    4,      Bashar,    ---,     2,    4-3
 2,    5,      Seth,      ---,     0,    F7
