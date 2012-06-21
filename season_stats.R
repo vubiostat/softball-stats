@@ -1,6 +1,7 @@
 source('../compile.R')
 
-batting <- read('batting_stats.txt')
+batting <- averages(read('batting_stats.txt'))
+write(batting, 'batting_stats.txt')
 
 # compile player season batting stats
 batting_season <- compile(batting[,-c(1:2,16:19)], batting['batter'])
