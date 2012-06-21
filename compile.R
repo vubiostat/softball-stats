@@ -18,9 +18,11 @@ join <- function(files) {
 averages <- function(stats) {
     # recalculate averages
     stats$BA  <- with(stats, round(na0(H / AB), 3))
-    stats$OBP <- with(stats, round(na0((H + BB)/(AB + BB + SF)), 3))
-    stats$SLG <- with(stats, round(na0((H + X2B + X3B*2 + HR*3)/AB), 3))
+    stats$OBP <- with(stats, na0((H + BB)/(AB + BB + SF)))
+    stats$SLG <- with(stats, na0((H + X2B + X3B*2 + HR*3)/AB))
     stats$OPS <- with(stats, round(na0(OBP + SLG), 3))
+    stats$OBP <- round(stats$OBP, 3)
+    stats$SLG <- round(stats$SLG, 3)
     stats
 }
 
