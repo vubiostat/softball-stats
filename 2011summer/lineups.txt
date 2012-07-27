@@ -50,7 +50,7 @@
  8 Cathy 2B
  9 Cole 1B/P
 10 Donna RF/EH
-11 John EH/SS
+11 JohnP EH/SS
 12 Kelly EH/RF
    ----
    6 - 20110614

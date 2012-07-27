@@ -86,7 +86,7 @@ game, inning, batter,   runners, outs, outcome
 4,    2,      Cathy,    ---,     2,    6-3
 4,    3,      Cole,     ---,     0,    F1
 4,    3,      Donna,    ---,     1,    F6
-4,    3,      John,     ---,     2,    1B
+4,    3,      JohnP,    ---,     2,    1B
 4,    3,      Kelly,    1--,     2,    1-3
 4,    4,      Mario,    ---,     0,    F1
 4,    4,      Sarah,    ---,     1,    5-3
