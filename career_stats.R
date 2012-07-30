@@ -9,7 +9,7 @@ batting_seasons <- join(system('ls */batting_stats_season.txt', TRUE), c('batter
 write(batting_seasons, 'batting_stats_season.txt')
 
 # compile player career batting stats
-batting_career <- compile(batting_seasons[,-c(1:2,17:20)], batting_seasons['batter'])
+batting_career <- compile(columns(batting_seasons), batting_seasons['batter'])
 batting_career <- batting_career[order(as.character(batting_career$batter)),]
 write(batting_career, 'batting_stats_career.txt')
 

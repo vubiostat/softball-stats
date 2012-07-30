@@ -1,5 +1,8 @@
 options(digits=4)
 
+CATEGORIES <- c('seasons', 'games', 'batters', 'inn', 'PA', 'AB', 'R', 'H', 'X2B', 'X3B', 'HR', 'RBI', 'BB', 'SO', 'SF', 'GDP')
+columns <- function(stats, inn=TRUE) { stats[which(names(stats) %in% c(CATEGORIES[1:3], CATEGORIES[(5-inn):length(CATEGORIES)]))] }
+
 na0 <- function(x) { ifelse(is.na(x), 0, x) }
 
 read <- function(file, ...) {
