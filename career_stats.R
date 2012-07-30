@@ -20,3 +20,8 @@ write(reorder(team_batting, c('season', 'game')), 'team_batting_stats.txt')
 # combine team-season batting stats across seasons
 team_batting_seasons <- join(system('ls */team_batting_stats_season.txt', TRUE), c('season'))
 write(reorder(team_batting_seasons, 'season'), 'team_batting_stats_season.txt')
+
+# compile team career batting stats
+team_batting_career <- compile(columns(team_batting_seasons), list(rep(1,nrow(team_batting_seasons))))
+team_batting_career[[1]] <- NULL
+write(team_batting_career, 'team_batting_stats_career.txt')
