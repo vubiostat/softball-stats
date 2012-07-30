@@ -10,9 +10,9 @@ write <- function(df, file, ...) {
     write.csv(df, file, na='0', quote=FALSE, row.names=FALSE, ...)
 }
 
-join <- function(files) {
+join <- function(files, columns) {
     df <- do.call(rbind, lapply(files, function(x) { cbind(season=dirname(x), read(x)) }))
-    df[order(as.character(df$batter), as.character(df$season)),]
+    df[do.call(order, lapply(df[columns], function(x) if (is.factor(x)) as.character(x) else x)),]
 }
 
 averages <- function(stats) {
