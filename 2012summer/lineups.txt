@@ -95,3 +95,41 @@
  8 Kylie CA -> Leena 2B
  9 Jeremy RC
 10 Seth LC
+   ----
+   9 - 20120628
+ 1 Cole P
+ 2 Michelle LF
+ 3 Mark 1B
+ 4 Cathy 2B
+ 5 FrankF SS
+ 6 Tina RC
+ 7 Jeremy 3B
+ 8 Amy RF
+ 9 JohnB CA
+10 Seth LC
+   ----
+   12 - 20120719
+ 1 Cole P
+ 2 Michelle LF
+ 3 Mark 3B
+ 4 Sarah RF
+ 5 Jeffrey 1B
+ 6 Cathy 2B
+ 7 Mario LC
+ 8 Kylie CA
+ 9 Brant EH
+10 Amy EH
+11 Seth RC
+12 FrankF SS
+   ----
+   11 - 20120726
+ 1 Cole P
+ 2 Michelle LF
+ 3 FrankF SS -> Seth RC
+ 4 Amy RF
+ 5 Jeffrey 1B
+ 6 Kylie CA
+ 7 Mario LC
+ 8 Tina 2B
+ 9 Will RC/3B
+10 Mark 3B/SS
