@@ -1,5 +1,6 @@
 source('../compile.R')
 
+# calculate averages
 batting <- averages(read('batting_stats.txt'))
 write(batting, 'batting_stats.txt')
 
