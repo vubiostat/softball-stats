@@ -29,6 +29,3 @@ function! ReformatStats()
   exec '%substitute/\(\(,[^,]\{-}\)\{'.l:col_skip.'}\.\(\d*\>\)\)\@<=/\=repeat("0",3-len(submatch(3)))/ge'
   %Tabular /,\zs /r0
 endfunction
-
-argdo call ReformatStats()
-xall
