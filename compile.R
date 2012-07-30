@@ -1,7 +1,7 @@
 options(digits=4)
 
 CATEGORIES <- c('seasons', 'games', 'batters', 'inn', 'PA', 'AB', 'R', 'H', 'X2B', 'X3B', 'HR', 'RBI', 'BB', 'SO', 'SF', 'GDP')
-columns <- function(stats, inn=TRUE) { stats[which(names(stats) %in% c(CATEGORIES[1:3], CATEGORIES[(5-inn):length(CATEGORIES)]))] }
+columns <- function(stats) { stats[which(names(stats) %in% CATEGORIES)] }
 
 na0 <- function(x) { ifelse(is.na(x), 0, x) }
 
@@ -41,6 +41,8 @@ compile <- function(stats, by) {
     # rename sub-set category as appropriate
     if ('game' %in% names(by)) {
         names(result)[match('games', names(result))] <- 'batters'
+        inn <- aggregate(stats['inn'], by=by, FUN=max)
+        result$inn[match(result$game, inn$game)] <- inn$inn
     }
     if (sum(names(result) == 'games') == 2) {
         names(result)[match('games', names(result))] <- 'seasons'
