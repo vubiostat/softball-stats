@@ -133,3 +133,17 @@
  8 Tina 2B
  9 Will RC/3B
 10 Mark 3B/SS
+   ----
+   13 - 20120731
+ 1 Cole P
+ 2 Michelle LF
+ 3 Mark SS/3B
+ 4 Sarah 2B/RF
+ 5 Tatsuki 1B
+ 6 Jennifer 2B
+ 7 Seth RC -> Will RC
+ 8 Kylie CA
+ 9 Will 3B/EH -> FrankF SS
+10 Amy RF/EH
+11 Jeremy EH/3B
+12 Mario LC
