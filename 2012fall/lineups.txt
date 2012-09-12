@@ -8,3 +8,14 @@
  7 FrankH 3B
  8 Kim RF
  9 Seth 1B
+   ----
+   3 - 20120911
+ 1 Cole P
+ 2 Michelle LF
+ 3 Mark SS/3B
+ 4 Cathy 2B
+ 5 Jeffrey 1B
+ 6 Kylie CA
+ 7 Tatsuki 3B -> FrankF SS
+ 8 Tina RF -> Kim RF
+ 9 Seth CF -> Will CF
