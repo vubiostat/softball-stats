@@ -1,0 +1,15 @@
+#!/bin/zsh
+# filter a single player's stats
+if [[ -z $1 ]]
+then
+    echo 'No player name given'
+    exit 1
+fi
+if [[ -z $2 ]]
+then
+    file=batting_stats.txt
+else
+    file=$2
+fi
+head -n 1 $2
+grep --color=never $1 $2
