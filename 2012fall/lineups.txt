@@ -41,3 +41,14 @@
  7 Tatsuki 1B -> FrankH 1B
  8 Tina RF
  9 Seth LC
+   ----
+   5 - 20120916
+ 1 Cole P
+ 2 Cathy 2B
+ 3 Mario LF
+ 4 Kelly LC
+ 5 Jeffrey 1B
+ 6 Kylie CA
+ 7 FrankF SS
+ 8 Tina RF
+ 9 Seth RC
