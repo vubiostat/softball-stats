@@ -1,4 +1,4 @@
-   1 - 20110913
+   1 - 20110913 - God Complex
  1 Mario LC -> Seth LC
  2 Michelle LF
  3 Cole SS/P
@@ -10,7 +10,7 @@
  9 Will P/SS -> FrankH 3B
 10 Audrey RF
    ----
-   3 - 20110915
+   3 - 20110915 - The Suits
  1 Cole P
  2 Michelle LF
  3 Dustin 1B
@@ -21,7 +21,7 @@
  8 Kelly RF
  9 FrankF SS
    ----
-   4 - 20110920
+   4 - 20110920 - IGP 2016
  1 Tatsuki 3B -> Will 3B
  2 Sarah RF
  3 Jeffrey 1B
@@ -32,7 +32,7 @@
  8 Kelly CA -> Kylie CA -> Kelly CA
  9 Cole P
    ----
-   2- 20110922
+   2- 20110922 - Great Bam-Aminos
  1 Will P/RF
  2 Sarah 3B
  3 Jeffrey 1B
@@ -44,7 +44,7 @@
  9 Seth LC
 10 Kylie CA
    ----
-   5 - 20110927
+   5 - 20110927 - Cheese Machine
  1 Cole P
  2 Sarah 3B/2B
  3 FrankF SS -> Jeffrey 1B
@@ -56,7 +56,7 @@
  9 Tatsuki RC/SS
 10 Kelly CA
    ----
-   6 - 20110929
+   6 - 20110929 - Ionizers
  1 Will RC/SS/EH/1B
  2 Sarah 3B
  3 Cole P

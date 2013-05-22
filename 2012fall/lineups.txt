@@ -9,7 +9,7 @@
  8 Kim RF
  9 Seth 1B
    ----
-   3 - 20120911
+   3 - 20120911 - God Complex
  1 Cole P
  2 Michelle LF
  3 Mark SS/3B
@@ -20,7 +20,7 @@
  8 Tina RF -> Kim RF
  9 Seth CF -> Will CF
    ----
-   2 - 20120912
+   2 - 20120912 - Swingers
  1 Mark SS
  2 Cathy 2B
  3 Will P
@@ -31,7 +31,7 @@
  8 Kim RF
  9 Seth CF
    ----
-   4 - 20120913
+   4 - 20120913 - Ionizers
  1 Cole P
  2 Cathy 2B
  3 FrankF SS
@@ -42,7 +42,7 @@
  8 Tina RF
  9 Seth LC
    ----
-   5 - 20120916
+   5 - 20120916 - Electrons
  1 Cole P
  2 Cathy 2B
  3 Mario LF

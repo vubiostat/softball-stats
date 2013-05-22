@@ -1,4 +1,4 @@
-   20090512
+   1 - 20090512 - Anesthesia Vaporaizers
  1 Sandeep LF
  2 Cathy CA
  3 Cole SS/P
@@ -18,7 +18,7 @@
    Diane BN
    Reddy BN
    ----
-   20090519
+   2 - 20090519 - Sutures
  1 Jeremy LC -> Mitsu LC
  2 Kristen RC -> Lisa RC
  3 Cole SS/P
@@ -35,7 +35,7 @@
    Eric BN
    David BN
    ----
-   20090521
+   3 - 20090521 - Rehab This
  1 Nate LF
  2 Cathy 2B -> Diane 1B
  3 Cole SS
@@ -47,7 +47,7 @@
  9 Patrick 1B -> Jeffrey 2B
 10 Will P
    ----
-   20090630
+   10 - 20090630 - Dayani Dirtbags
  1 Eric 3B -> Jeremy 3B
  2 Kylie RC
  3 Patrick 1B -> Ben 1B
@@ -59,7 +59,7 @@
  9 Frank SS -> Sandeep LF
 10 Will P/SS
    ----
-   20090707b
+   20090707b - Misfits?
  1 Jeffrey 1B
  2 Eve RF -> Donna RF
  3 Jeremy RC/3B

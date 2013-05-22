@@ -1,4 +1,4 @@
-   1 - 20110517
+   1 - 20110517 - Misfits
  1 Mario LC
  2 Cathy RF -> Kelly RF
  3 Cole 1B
@@ -13,7 +13,7 @@
 12 Tina EH
    Kylie BN
    ----
-   2 - 20110524
+   2 - 20110524 - Great Bam-Aminos
  1 Cole CA/3B/P
  2 Cathy 2B
  3 Seth LC
@@ -27,7 +27,7 @@
 11 Will P/3B
 12 Leena EH/CA
    ----
-   4 - 20110531
+   4 - 20110531 - Psummer Psychos
  1 Cole RC -> FrankH RC
  2 Adiba 3B
  3 Seth LC
@@ -39,7 +39,7 @@
  9 FrankF SS
 10 Sarah CA -> Svetlana CA
    ----
-   5 - 20110609
+   5 - 20110609 - Accelerators
  1 Mario LC
  2 Sarah CA
  3 Will P/1B/RC
@@ -53,7 +53,7 @@
 11 JohnP EH/SS
 12 Kelly EH/RF
    ----
-   6 - 20110614
+   6 - 20110614 - Sutures
  1 Mario LC
  2 Adiba 3B
  3 Will P
@@ -65,7 +65,7 @@
  9 Cole 1B
 10 Audrey RF -> Meridith RF/LF
    ----
-
+   10 - 20110712 - Psummer Psychos
  1 Cole P
  2 Michelle LF
  3 Mario LC
@@ -77,7 +77,7 @@
  9 FrankF SS
 10 Kylie CA
    ----
-   11 - 20110719
+   11 - 20110719 - McGugin Mayhem
  1 Mario LC
  2 Adiba 3B
  3 Seth RC
@@ -89,7 +89,7 @@
  9 Will P/SS
 10 Cole SS/1B/P
    ----
-   12 - 20110721
+   12 - 20110721 - Accelerators
  1 Will P
  2 Sarah CA
  3 Jeffrey 1B

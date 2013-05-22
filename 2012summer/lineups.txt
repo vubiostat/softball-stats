@@ -1,4 +1,4 @@
-   1 - 20120517
+   1 - 20120517 - Dogs of Nashville
  1 Cole P
  2 Sarah RF
  3 FrankF SS
@@ -10,7 +10,7 @@
  9 Mark 3B -> Jiang RC
 10 Tatsuki 1B/3B
    ----
-   2 - 20120522
+   2 - 20120522 - Stadler's Last Stand
  1 Cole P
  2 Michelle LF
  3 FrankF SS -> Will 3B
@@ -22,7 +22,7 @@
  9 Jiang RC -> Seth RC
 10 Tatsuki 1B
    ----
-   3 - 20120524
+   3 - 20120524 - Misfits
  1 Cole P
  2 Sarah LF
  3 FrankF SS
@@ -34,7 +34,7 @@
  9 Will 3B -> Mark 3B
 10 Seth LC
    ----
-   4 - 20120531
+   4 - 20120531 - Ionizers
  1 Cole P
  2 Sarah LF
  3 Mark SS
@@ -46,7 +46,7 @@
  9 Seth LC
 10 Tatsuki 1B
    ----
-   5 - 20120605
+   5 - 20120605 - VCH Suits
  1 Cole P
  2 Michelle LF
  3 Seth LC
@@ -60,7 +60,7 @@
 11 Tatsuki 3B/SS
 12 Mark 3B/EH
    ----
-   6 - 20120607
+   6 - 20120607 - Sutures
  1 Tatsuki 3B
  2 Michelle LF
  3 Mark SS
@@ -72,7 +72,7 @@
  9 Seth LC
 10 Cole P
    ----
-   7 - 20120614
+   7 - 20120614 - Scared Hitless
  1 Cole P
  2 Sarah 3B
  3 Mark SS
@@ -84,7 +84,7 @@
  9 Will RC
 10 Michelle LF
    ----
-   8 - 20120619
+   8 - 20120619 - McGugin Mayhem
  1 Cole P
  2 Michelle LF
  3 Jeffrey 1B
@@ -96,7 +96,7 @@
  9 Jeremy RC
 10 Seth LC
    ----
-   9 - 20120628
+   9 - 20120628 - Dogs of Nashville
  1 Cole P
  2 Michelle LF
  3 Mark 1B
@@ -108,7 +108,7 @@
  9 JohnB CA
 10 Seth LC
    ----
-   12 - 20120719
+   12 - 20120719 - Ionizers
  1 Cole P
  2 Michelle LF
  3 Mark 3B
@@ -122,7 +122,7 @@
 11 Seth RC
 12 FrankF SS
    ----
-   11 - 20120726
+   11 - 20120726 - Misfits
  1 Cole P
  2 Michelle LF
  3 FrankF SS -> Seth RC
@@ -134,7 +134,7 @@
  9 Will RC/3B
 10 Mark 3B/SS
    ----
-   13 - 20120731
+   13 - 20120731 - Bad Medicine
  1 Cole P
  2 Michelle LF
  3 Mark SS/3B

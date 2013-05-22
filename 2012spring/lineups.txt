@@ -1,4 +1,4 @@
-   1 - 20120417
+   1 - 20120417 - Ionizers
  1 Cole P
  2 Sarah RC
  3 Seth LC
@@ -12,7 +12,7 @@
 11 Jeffrey EH
 12 Amy EH
    ----
-   2 - 20120418a
+   2 - 20120418a - Knockouts
  1 Cole 3B/P
  2 Sarah RC
  3 Seth LC
@@ -26,7 +26,7 @@
 11 Jeffrey EH
 12 Amy EH
    ----
-   3 - 20120418b
+   3 - 20120418b - Psoftball Psychos
  1 FrankF SS
  2 Sarah 2B
  3 Seth CF/LC

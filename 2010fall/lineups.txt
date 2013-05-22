@@ -1,4 +1,4 @@
-   2 - 20100916
+   2 - 20100916 - Ionizers
  1 Seth LC
  2 Sarah CA
  3 Jeffrey 1B
@@ -10,7 +10,7 @@
  9 Will LF
 10 Bashar 2B
    ----
-    4 - 20100923
+    4 - 20100923 - AmbassaDores
  1 Mario LC
  2 Cathy 3B
  3 Cole SS/LF
@@ -25,7 +25,7 @@
 12 Kylie EH
    Charlie BN
    ----
-   5 - 20100929
+   5 - 20100929 - The Replacements
  1 Mario LC -> Bryan LC
  2 Svetlana RF
  3 Jeffrey 1B -> Sandeep LF
@@ -37,7 +37,7 @@
  9 Cole SS
 10 Donna 3B
    ----
-   6 - 20100930
+   6 - 20100930 - Rutkowski's Revenge
  1 Mario LC
  2 Donna EH
  3 Bashar RC -> Charlie RC

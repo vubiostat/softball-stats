@@ -1,52 +1,13 @@
-Date,Time,Field,Home,Away
-17-May-12,6:00 PM,1,Goodness of Hit,The Dogs of Nashville
-17-May-12,6:00 PM,2,Ionizers,Sutures
-17-May-12,7:00 PM,1,McGugin Mayhem,Stadler's Last Stand
-17-May-12,7:00 PM,2,Misfits,Scared Hitless
-22-May-12,6:00 PM,1,VCH Suits,Sutures
-22-May-12,6:00 PM,2,Goodness of Hit,Stadler's Last Stand
-22-May-12,6:00 PM,3,Ionizers,Scared Hitless
-22-May-12,8:00 PM,3,McGugin Mayhem,Misfits
-24-May-12,6:00 PM,1,The Dogs of Nashville,Stadler's Last Stand
-24-May-12,6:00 PM,2,VCH Suits,Scared Hitless
-24-May-12,7:00 PM,1,Goodness of Hit,Misfits
-24-May-12,7:00 PM,2,Ionizers,McGugin Mayhem
-31-May-12,6:00 PM,1,Sutures,Scared Hitless
-31-May-12,6:00 PM,2,The Dogs of Nashville,Misfits
-31-May-12,7:00 PM,1,VCH Suits,McGugin Mayhem
-31-May-12,7:00 PM,2,Goodness of Hit,Ionizers
-5-Jun-12,6:00 PM,1,Stadler's Last Stand,Misfits
-5-Jun-12,6:00 PM,2,Sutures,McGugin Mayhem
-5-Jun-12,6:00 PM,3,The Dogs of Nashville,Ionizers
-5-Jun-12,8:00 PM,3,VCH Suits,Goodness of Hit
-7-Jun-12,6:00 PM,1,Scared Hitless,McGugin Mayhem
-7-Jun-12,6:00 PM,2,Stadler's Last Stand,Ionizers
-7-Jun-12,7:00 PM,1,Sutures,Goodness of Hit
-7-Jun-12,7:00 PM,2,The Dogs of Nashville,VCH Suits
-14-Jun-12,6:00 PM,1,Misfits,Ionizers
-14-Jun-12,6:00 PM,2,Scared Hitless,Goodness of Hit
-14-Jun-12,7:00 PM,1,Stadler's Last Stand,VCH Suits
-14-Jun-12,7:00 PM,2,Sutures,The Dogs of Nashville
-19-Jun-12,6:00 PM,1,McGugin Mayhem,Goodness of Hit
-19-Jun-12,6:00 PM,2,Misfits,VCH Suits
-19-Jun-12,6:00 PM,3,Scared Hitless,The Dogs of Nashville
-19-Jun-12,8:00 PM,3,Stadler's Last Stand,Sutures
-21-Jun-12,6:00 PM,2,McGugin Mayhem,The Dogs of Nashville
-21-Jun-12,7:00 PM,1,Misfits,Sutures
-21-Jun-12,7:00 PM,2,Scared Hitless,Stadler's Last Stand
-28-Jun-12,6:00 PM,1,The Dogs of Nashville,Goodness of Hit
-28-Jun-12,6:00 PM,2,Sutures,Ionizers
-28-Jun-12,7:00 PM,1,Stadler's Last Stand,McGugin Mayhem
-28-Jun-12,7:00 PM,2,Scared Hitless,Misfits
-10-Jul-12,6:00 PM,1,Sutures,VCH Suits
-10-Jul-12,6:00 PM,2,Stadler's Last Stand,Goodness of Hit
-10-Jul-12,6:00 PM,3,Scared Hitless,Ionizers
-10-Jul-12,8:00 PM,3,Misfits,McGugin Mayhem
-12-Jul-12,6:00 PM,1,Stadler's Last Stand,The Dogs of Nashville
-12-Jul-12,6:00 PM,2,Scared Hitless,VCH Suits
-12-Jul-12,7:00 PM,1,Misfits,Goodness of Hit
-12-Jul-12,7:00 PM,2,McGugin Mayhem,Ionizers
-19-Jul-12,6:00 PM,1,Scared Hitless,Sutures
-19-Jul-12,6:00 PM,2,Misfits,The Dogs of Nashville
-19-Jul-12,7:00 PM,1,McGugin Mayhem,VCH Suits
-19-Jul-12,7:00 PM,2,Ionizers,Goodness of Hit
+Date, Time, Field, Home, Away
+2012-05-17, 6:00 PM, 1, Goodness of Hit, The Dogs of Nashville
+2012-05-22, 6:00 PM, 2, Goodness of Hit, Stadler's Last Stand
+2012-05-24, 7:00 PM, 1, Goodness of Hit, Misfits
+2012-05-31, 7:00 PM, 2, Goodness of Hit, Ionizers
+2012-06-05, 8:00 PM, 3, VCH Suits, Goodness of Hit
+2012-06-07, 7:00 PM, 1, Sutures, Goodness of Hit
+2012-06-14, 6:00 PM, 2, Scared Hitless, Goodness of Hit
+2012-06-19, 6:00 PM, 1, McGugin Mayhem, Goodness of Hit
+2012-06-28, 6:00 PM, 1, The Dogs of Nashville, Goodness of Hit
+2012-07-10, 6:00 PM, 2, Stadler's Last Stand, Goodness of Hit
+2012-07-12, 7:00 PM, 1, Misfits, Goodness of Hit
+2012-07-19, 7:00 PM, 2, Ionizers, Goodness of Hit
