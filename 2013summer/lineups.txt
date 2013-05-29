@@ -14,7 +14,7 @@
  1 Cole P
  2 Michelle LF
  3 Mark RC/EH
- 4  Sarah RF
+ 4 Sarah RF
  5 Jeffrey 1B
  6 Whitney 2B/EH
  7 Austin 3B -> Dave
@@ -23,3 +23,16 @@
 10 Kylie CA
 11 FrankF SS
 12 Will EH/RC
+   ----
+   3 - 20130528 - HR
+ 1 Cole P
+ 2 Michelle LF
+ 3 Mark 3B
+ 4 Whitney CA
+ 5 Jeffrey 1B
+ 6 Sarah RF
+ 7 FrankF SS
+ 8 Nicole 2B
+ 9 Dave RC
+10 Cathy EH
+11 Seth LC
