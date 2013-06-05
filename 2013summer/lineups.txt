@@ -36,3 +36,17 @@
  9 Dave RC
 10 Cathy EH
 11 Seth LC
+   ----
+   4 - 20130604 - Sutures
+ 1 Mark P
+ 2 Michelle LF
+ 3 Austin 3B -> Dave
+ 4 Cathy 2b
+ 5 Jeffrey 1B -> Minchun RC
+ 6 Whitney RF
+ 7 FrankF SS
+ 8 Sarah CA
+ 9 FrankH EH
+10 Tina EH
+11 Will RC/1B
+12 Seth LC
