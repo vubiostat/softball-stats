@@ -41,7 +41,7 @@
  1 Mark P
  2 Michelle LF
  3 Austin 3B -> Dave
- 4 Cathy 2b
+ 4 Cathy 2B
  5 Jeffrey 1B -> Minchun RC
  6 Whitney RF
  7 FrankF SS
@@ -50,3 +50,15 @@
 10 Tina EH
 11 Will RC/1B
 12 Seth LC
+   ----
+   5 - 20130611 - Scared Hitless
+ 1 Cole P
+ 2 Michelle LF
+ 3 Mark 3B -> Austin
+ 4 Leena CA
+ 5 Dave SS -> FrankF
+ 6 Tina RF
+ 7 Jeffrey 1B
+ 8 Cathy 2B
+ 9 Will LC/RC
+10 Minchun RC -> Seth LC
