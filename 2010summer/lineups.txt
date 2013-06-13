@@ -59,7 +59,7 @@
  9 Chris SS
 10 Kylie CA
    ----
-   6 - 20100629 - A-Team
+   8 - 20100629 - A-Team
  1 Cole 1B
  2 Nicole RC
  3 FrankF LC
@@ -72,7 +72,7 @@
 10 Elizabeth 3B
    AmyW BN
    ----
-   7 - 20100701 - Scared Hitless
+   9 - 20100701 - Scared Hitless
  1 Cole SS -> FrankF SS
  2 Leena 2B
  3 Jeffrey 1B
@@ -84,7 +84,7 @@
  9 FrankH CA
 10 Will P -> Cole P
    ----
-   8 - 20100715 - VCH Radiology
+   11 - 20100715 - VCH Radiology
  1 FrankH RC -> Bashar RC
  2 Nicole 3B
  3 Will P -> Cole P
@@ -98,7 +98,7 @@
    Pei-Fang BN
    Cathy BN
    ----
-   11 - 20100727 - Rejections
+   12 - 20100727 - Rejections
  1 Mario LC
  2 Nicole 2B
  3 FrankF SS
