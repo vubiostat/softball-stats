@@ -142,7 +142,7 @@ game, inning, batter,   runners, outs, outcome
 5,    4,      Cathy,    ---,     1,    W
 5,    4,      Will,     1--,     1,    FC.1X2
 5,    4,      Seth,     1--,     2,    F7
-5,    5,      Cole,     ---,     0,    3B.B-H
+5,    5,      Cole,     ---,     0,    HR
 5,    5,      Michelle, ---,     0,    L6
 5,    5,      Austin,   ---,     1,    L6
 5,    5,      Leena,    ---,     2,    W
