@@ -40,8 +40,8 @@ game, inning, batter,   runners, outs, outcome
 3,    3,      Kylie,    ---,     0,    1-3
 3,    3,      Tatsuki,  ---,     1,    1B
 3,    3,      Kelly,    1--,     1,    K
-3,    3,      FrankF,   1--,     2,    1B.1-H
-3,    3,      Cole,     1--,     2,    4-3
+3,    3,      FrankF,   1--,     2,    1B.1-H;B-3
+3,    3,      Cole,     --3,     2,    4-3
 3,    4,      Michelle, ---,     0,    U3
 3,    4,      Dustin,   ---,     1,    F8
 3,    4,      Sarah,    ---,     2,    W
