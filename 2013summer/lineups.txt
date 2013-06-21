@@ -62,3 +62,27 @@
  8 Cathy 2B
  9 Will LC/RC
 10 Minchun RC -> Seth LC
+   ----
+   6 - 20130618 - Ionizers
+ 1 Cole P
+ 2 Michelle LF
+ 3 Mark SS -> Minchun RC
+ 4 Sarah RF
+ 5 Jeffrey 1B
+ 6 Leena 2B
+ 7 Austin 3B/SS
+ 8 Kylie CA
+ 9 Will RC/3B
+10 Seth LC
+   ----
+   7 - 20130620 - Accelerators
+ 1 Cole P
+ 2 Michelle LF
+ 3 FrankH 1B
+ 4 Sarah 2B -> Whitney
+ 5 Minchun RC
+ 6 Kylie CA
+ 7 Austin 3B
+ 8 Tina RF
+ 9 FrankF SS
+10 Will LC
