@@ -23,17 +23,17 @@ end
 
 options.parse!(ARGV)
 
-DB = Hash.new(0)
+DB = Hash.new { |h,k| h[k] = Hash.new(0) }
 
 ARGV.each do |file|
   File.open(file).each_line do |line|
-    if line =~ /^ *[0-9]* ([^ ]+ [^ ]+.*)/
+    if line =~ /^(?: [0-9]|1[0-9]) ([^ ]+ [^ ]+.*)/
       $1.split(' -> ').each do |sub_line|
         name, positions = sub_line.split(' ')
         positions.split('/').each do |position|
           if (OPTS[:player].nil? || name =~ OPTS[:player]) &&
             (OPTS[:position].nil? || position =~ OPTS[:position])
-            DB[[name,position].join(':')] += 1
+            DB[name][position] += 1
           end
         end
       end
@@ -43,8 +43,10 @@ end
 
 if DB.length > 0
   size = DB.keys.max_by(&:length).length
-  DB.sort_by {|k,v| k}.each do |k,v|
-    puts "#{k.ljust(size)}\t#{v}"
+  DB.sort_by {|k,v| k}.each do |n,v|
+    v.each do |p,c|
+      puts "#{n.ljust(size)}\t#{p}\t#{c}" #\t#{sprintf("%d %", 100.0*c/sub_total)}"
+    end
   end
 else
   puts "No matches found"
