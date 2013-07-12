@@ -25,7 +25,7 @@ averages <- function(stats) {
     stats$OBP <- with(stats, na0((H + BB) / (AB + BB + SF)))
     stats$SLG <- with(stats, na0(tb / AB))
     stats$OPS <- with(stats, round(OBP + SLG, 3))
-    stats$SA  <- with(stats, round((tb - H + BB) / AB, 3))
+    stats$SA  <- with(stats, round(na0((tb - H + BB) / AB), 3))
     stats$RC  <- with(stats, round(((2.4*PA + H + BB - GDP) * (3*PA + 1.125*H + 0.565*X2B + 1.895*X3B + 2.605*HR + 0.29*BB + 0.492*SF - 0.04*SO) / (9*PA)) - 0.9*PA, 3))
     stats$XR  <- with(stats, round(0.5*H + 0.22*X2B + 0.54*X3B + 0.94*HR + 0.34*BB + 0.37*SF - 0.01*SO - 0.09*(AB-H-SO), 3))
     stats$OBP <- round(stats$OBP, 3)
