@@ -115,3 +115,15 @@
 10 Tina EH
 11 Minchun EH/RC
 12 Will RC/EH
+   ----
+   10 - 20130718 - Ionizers
+ 1 Mario LC
+ 2 Cathy 2B
+ 3 Cole P
+ 4 Michelle LF
+ 5 Seth RC -> Minchun RC
+ 6 Leena CA
+ 7 Austin 3B -> Dave 3B
+ 8 Sarah RF -> Tina RF
+ 9 FrankF SS -> Mark SS
+10 Jeffrey 1B
