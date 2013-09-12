@@ -1,0 +1,35 @@
+# vim: ft=
+# :3,$Tabular /,\zs /l0
+game, inning, batter,   runners, outs, outcome
+2,    1,      Seth,     ---,     0,    1B
+2,    1,      Cathy,    1--,     0,    L5
+2,    1,      MarkL,    1--,     1,    1-3
+2,    1,      Michelle, 1--,     2,    1-3
+2,    2,      Jeffrey,  ---,     0,    1B
+2,    2,      Kim,      1--,     0,    L1
+2,    2,      Austin,   1--,     1,    1B.1-3;B-2
+2,    2,      Sandya,   -23,     1,    W
+2,    2,      Will,     123,     1,    F7.3-H
+2,    2,      Leena,    12-,     2,    1-3
+2,    3,      Seth,     ---,     0,    1B
+2,    3,      Cathy,    1--,     0,    W.1-2
+2,    3,      MarkL,    12-,     0,    3B.2-H;1-H
+2,    3,      Michelle, --3,     0,    1-3
+2,    3,      Jeffrey,  --3,     1,    Kf
+2,    3,      Kim,      --3,     2,    1-3
+2,    4,      MarkG,    ---,     0,    1B.B-3
+2,    4,      Sandya,   --3,     0,    1-3
+2,    4,      Will,     --3,     1,    Kf
+2,    4,      Leena,    --3,     2,    1-3
+2,    5,      Minchun,  ---,     0,    Kc
+2,    5,      Cathy,    ---,     1,    F6
+2,    5,      MarkL,    ---,     2,    1B
+2,    5,      Michelle, 1--,     2,    1B.1-H;B-2
+2,    5,      Jeffrey,  -2-,     2,    1B.2-H;B-2
+2,    5,      Kim,      -2-,     2,    Kf
+2,    6,      MarkG,    ---,     0,    1B
+2,    6,      Sandya,   1--,     0,    Kc
+2,    6,      Will,     1--,     1,    F7
+2,    6,      Leena,    1--,     2,    1B.1-3
+2,    6,      Minchun,  1-3,     2,    W.1-2
+2,    6,      Cathy,    123,     2,    F1
