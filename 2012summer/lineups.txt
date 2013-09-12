@@ -7,7 +7,7 @@
  6 Cathy 2B
  7 Seth LC
  8 Kelly CA
- 9 Mark 3B -> Jiang RC
+ 9 MarkL 3B -> Jiang RC
 10 Tatsuki 1B/3B
    ----
    2 - 20120522 - Stadler's Last Stand
@@ -17,7 +17,7 @@
  4 Nicole 2B
  5 Mario LF
  6 Sarah RF
- 7 Mark 3B/SS
+ 7 MarkL 3B/SS
  8 Kylie CA
  9 Jiang RC -> Seth RC
 10 Tatsuki 1B
@@ -31,13 +31,13 @@
  6 Kylie CA/2B
  7 Jiang RC/RF
  8 Svetlana RF/CA
- 9 Will 3B -> Mark 3B
+ 9 Will 3B -> MarkL 3B
 10 Seth LC
    ----
    4 - 20120531 - Ionizers
  1 Cole P
  2 Sarah LF
- 3 Mark SS
+ 3 MarkL SS
  4 Cathy 2B
  5 Will 3B
  6 Amy RF
@@ -58,12 +58,12 @@
  9 Jiang EH/RC
 10 Beth EH
 11 Tatsuki 3B/SS
-12 Mark 3B/EH
+12 MarkL 3B/EH
    ----
    6 - 20120607 - Sutures
  1 Tatsuki 3B
  2 Michelle LF
- 3 Mark SS
+ 3 MarkL SS
  4 Jennifer 2B
  5 Jeffrey 1B
  6 Tiffany CA
@@ -75,7 +75,7 @@
    7 - 20120614 - Scared Hitless
  1 Cole P
  2 Sarah 3B
- 3 Mark SS
+ 3 MarkL SS
  4 Jennifer 2B
  5 Jeffrey 1B
  6 Amy RF
@@ -89,7 +89,7 @@
  2 Michelle LF
  3 Jeffrey 1B
  4 Sarah RF
- 5 Mark SS
+ 5 MarkL SS
  6 Cathy 2B/CA
  7 Will 3B
  8 Kylie CA -> Leena 2B
@@ -99,7 +99,7 @@
    9 - 20120628 - Dogs of Nashville
  1 Cole P
  2 Michelle LF
- 3 Mark 1B
+ 3 MarkL 1B
  4 Cathy 2B
  5 FrankF SS
  6 Tina RC
@@ -111,7 +111,7 @@
    12 - 20120719 - Ionizers
  1 Cole P
  2 Michelle LF
- 3 Mark 3B
+ 3 MarkL 3B
  4 Sarah RF
  5 Jeffrey 1B
  6 Cathy 2B
@@ -132,12 +132,12 @@
  7 Mario LC
  8 Tina 2B
  9 Will RC/3B
-10 Mark 3B/SS
+10 MarkL 3B/SS
    ----
    13 - 20120731 - Bad Medicine
  1 Cole P
  2 Michelle LF
- 3 Mark SS/3B
+ 3 MarkL SS/3B
  4 Sarah 2B/RF
  5 Tatsuki 1B
  6 Jennifer 2B
