@@ -1,7 +1,7 @@
    1 - 20130514 - Skaars and Stripes
  1 Cole P
  2 Michelle LF
- 3 Mark 3B -> Austin 3B
+ 3 MarkL 3B -> Austin 3B
  4 Sarah RF
  5 Jeffrey 1B
  6 Cathy 2B
@@ -13,7 +13,7 @@
    2 - 20130521 - Misfits
  1 Cole P
  2 Michelle LF
- 3 Mark RC/EH
+ 3 MarkL RC/EH
  4 Sarah RF
  5 Jeffrey 1B
  6 Whitney 2B/EH
@@ -27,7 +27,7 @@
    3 - 20130528 - HR
  1 Cole P
  2 Michelle LF
- 3 Mark 3B
+ 3 MarkL 3B
  4 Whitney CA
  5 Jeffrey 1B
  6 Sarah RF
@@ -38,7 +38,7 @@
 11 Seth LC
    ----
    4 - 20130604 - Sutures
- 1 Mark P
+ 1 MarkL P
  2 Michelle LF
  3 Austin 3B -> Dave 3B
  4 Cathy 2B
@@ -54,7 +54,7 @@
    5 - 20130611 - Scared Hitless
  1 Cole P
  2 Michelle LF
- 3 Mark 3B -> Austin 3B
+ 3 MarkL 3B -> Austin 3B
  4 Leena CA
  5 Dave SS -> FrankF SS
  6 Tina RF
@@ -66,7 +66,7 @@
    6 - 20130618 - Ionizers
  1 Cole P
  2 Michelle LF
- 3 Mark SS -> Minchun RC
+ 3 MarkL SS -> Minchun RC
  4 Sarah RF
  5 Jeffrey 1B
  6 Leena 2B
@@ -125,7 +125,7 @@
  6 Leena CA
  7 Austin 3B -> Dave 3B
  8 Sarah RF -> Tina RF
- 9 FrankF SS -> Mark SS
+ 9 FrankF SS -> MarkL SS
 10 Jeffrey 1B
    ----
    11 - 20130723 - Accelerators
@@ -135,7 +135,7 @@
  4 Michelle LF
  5 Seth RC -> Minchun RC
  6 Whitney RF
- 7 Mark 3B/SS
+ 7 MarkL 3B/SS
  8 Kylie CA
  9 FrankF SS -> Austin 3B
 10 Jeffrey 1B
