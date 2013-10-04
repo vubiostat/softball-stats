@@ -46,3 +46,15 @@
  8 Beth RF
  9 Austin 3B -> Minchun 3B/LF
 10 Renee CA
+   ----
+   20131003 - 7 - Big Maccs
+ 1 Cole P/LC
+ 2 Michelle LF
+ 3 Mark SS/P
+ 4 Sarah RF
+ 5 Jeffrey 1B
+ 6 Tiffany CA
+ 7 Austin 3B
+ 8 Cathy 2B
+ 9 Will LC/SS
+10 Renee RC
