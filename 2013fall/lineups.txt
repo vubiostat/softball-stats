@@ -50,7 +50,7 @@
    20131003 - 7 - Big Maccs
  1 Cole P/LC
  2 Michelle LF
- 3 Mark SS/P
+ 3 MarkL SS/P
  4 Sarah RF
  5 Jeffrey 1B
  6 Tiffany CA
@@ -58,3 +58,14 @@
  8 Cathy 2B
  9 Will LC/SS
 10 Renee RC
+   ----
+   20131007 - 8 Accelerators
+ 1 Mario LC -> MarkL RC
+ 2 Michelle LF
+ 3 Cole P
+ 4 Cathy 2B -> Kylie CA
+ 5 Jeffrey 1B
+ 6 Sarah RF/2B
+ 7 Will SS -> Austin SS
+ 8 Leena CA/RF/2B
+ 9 Seth RC/LC
