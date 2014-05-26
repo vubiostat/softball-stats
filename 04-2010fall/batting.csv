@@ -1,3 +1,5 @@
+# vim: ft=
+# :3,$Tabular /,\zs /l0
 game, inning, batter,    runners, outs, outcome
 2,    1,      Seth,      ---,     0,    1B
 2,    1,      Sarah,     1--,     0,    FC.1X2
