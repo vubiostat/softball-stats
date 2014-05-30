@@ -9,3 +9,15 @@
  8 Kate RF
  9 Dave SS/LC
 10 Will LC -> MarkL SS
+   ----
+   2 - 20140529 - No Glove No Love
+ 1 Cole P
+ 2 Michelle LF
+ 3 MarkL LC
+ 4 Jennifer 2B
+ 5 Jeffrey 1B
+ 6 Cathy CA
+ 7 Austin 3B -> Tatsuki 3B
+ 8 Sarah RF
+ 9 Dave RC
+10 Will SS
