@@ -2,5 +2,5 @@
 # run from from top level
 # update cross-season stats, call upload script
 files=(batting_stats.txt batting_stats_season.txt batting_stats_career.txt team_batting_stats.txt team_batting_stats_season.txt team_batting_stats_career.txt)
-R --save < career_stats.R
+R --slave --save < career_stats.R
 # vim $files -S reformat_stats.vim -c 'argdo call ReformatStats()' -c 'xall'
