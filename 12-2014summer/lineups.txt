@@ -21,3 +21,15 @@
  8 Sarah RF
  9 Dave RC
 10 Will SS
+   ----
+   4 - 20140610 - Accelerators
+ 1 Cole P -> Will SS
+ 2 Michelle LF
+ 3 Jeffrey 1B
+ 4 Allison 2B
+ 5 MarkG RC -> Minchun RC
+ 6 Shu RF -> Jennifer RF
+ 7 Austin 3B -> Dave 3B
+ 8 Sarah CA
+ 9 Mario LC
+10 MarkL SS/P
