@@ -59,3 +59,17 @@
 10 Sandya EH/RF
 11 MarkG RC/LF
 12 Mark SS
+   ----
+   7 - 20140626 - Misfits
+ 1 Cole P
+ 2 Michelle LF
+ 3 MarkL SS/EH
+ 4 Cathy 2B/CA
+ 5 Jeffrey 1B
+ 6 Jennifer 3B/2B
+ 7 Seth RC/EH
+ 8 Sandya EH/RF
+ 9 MarkG RF/EH -> Dave 3B/EH
+10 Sarah CA/EH
+11 Will EH/RC/3B/SS/RF
+12 Mario LC
