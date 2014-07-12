@@ -73,3 +73,15 @@
 10 Sarah CA/EH
 11 Will EH/RC/3B/SS/RF
 12 Mario LC
+   ----
+   8 - 20140710 - Sutures
+ 1 Mario LC -> Seth LC
+ 2 Michelle LF
+ 3 Cole P
+ 4 Cathy 2B
+ 5 Jeffrey 1B
+ 6 Sarah CA
+ 7 Austin 3B -> Will SS/3B
+ 8 Sandya RF
+ 9 MarkG RC
+10 MarkL SS -> Dave 3B
