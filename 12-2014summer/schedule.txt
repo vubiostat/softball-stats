@@ -8,5 +8,4 @@ Date, Time, Field, Opponent, Result
 2014-06-26, 6:00 PM, 1, Misfits, W (6-3)
 2014-07-10, 6:00 PM, 2, Sutures, L (8-9)
 2014-07-17, 8:00 PM, 2, Pharm Team, W (F)
-2014-07-22, 6:00 PM, 2, We've Got the Runs, 
-2014-07-24, 8:00 PM, 1, Ionizers, 
+2014-07-22, 6:00 PM, 2, We've Got the Runs, L (7-8)
