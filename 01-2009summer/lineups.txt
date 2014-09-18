@@ -23,7 +23,7 @@
  2 Kristen RC -> Lisa RC
  3 Cole SS/P
  4 Leena 3B
- 5 Patrick 1B
+ 5 PatrickA 1B
  6 Elizabeth 2B
  7 Jeffrey LF
  8 Peggy RF
@@ -44,13 +44,13 @@
  6 Elizabeth RF
  7 Mitsu LC
  8 Kylie CA
- 9 Patrick 1B -> Jeffrey 2B
+ 9 PatrickA 1B -> Jeffrey 2B
 10 Will P
    ----
    10 - 20090630 - Dayani Dirtbags
  1 Eric 3B -> Jeremy 3B
  2 Kylie RC
- 3 Patrick 1B -> Ben 1B
+ 3 PatrickA 1B -> Ben 1B
  4 Cathy 2B
  5 Mario LC -> Sam LC
  6 Donna RF
