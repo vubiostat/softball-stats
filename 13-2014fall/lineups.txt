@@ -34,3 +34,28 @@
  8 Sandya CA
  9 Austin SS
 10 Leena 2B
+   ----
+   6 - 20140925 - Swingers
+ 1 Patrick SS/P
+ 2 Lucy RF
+ 3 Cole P/LC/3B
+ 4 Alice 3B
+ 5 Jeffrey 1B
+ 6 Cathy 2B
+ 7 Seth LC/SS
+ 8 Sandya CA
+ 9 Ryan RC
+10 Austin 3B -> Will 3B/LC
+   Sarah EH
+   MarkG EH
+   ----
+   7 - 20140925 - Big Bats Bigger Balls
+ 1 Will CF/LF
+ 2 Sarah 2B
+ 3 Seth LF -> Ryan CF
+ 4 Sandya CA
+ 5 Austin SS
+ 6 Alice 3B
+ 7 Jeffrey 1B -> MarkG 1B
+ 8 Lucy RF
+ 9 Cole P
