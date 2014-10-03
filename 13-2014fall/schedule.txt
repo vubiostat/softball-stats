@@ -6,3 +6,5 @@ Date, Time, Field, Opponent, Result
 2014-09-23, 6:00 PM, 1, Big Bats Bigger Balls, W (11-7)
 2014-09-25, 5:00 PM, 1, Swingers, W (F)
 2014-09-25, 6:00 PM, 1, Big Bats Bigger Balls, L (3-4)
+2014-09-29, 8:00 PM, 2, FSA, W (14-2)
+2014-10-02, 8:00 PM, 2, Chegsa, L (4-8)
