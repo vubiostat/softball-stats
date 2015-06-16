@@ -1,10 +1,10 @@
 Date, Time, Field, Opponent, Result
 2015-05-21, 6:00 PM, 1, Accelerators, W (F)
 2015-05-26, 6:00 PM, 2, Sutures, L (0-12)
-2015-06-02, 7:00 PM, 1, Round Trippers,
-2015-06-09, 6:00 PM, 2, Rock 'Em Sock 'Em,
+2015-06-02, 7:00 PM, 1, Round Trippers, W (F)
+2015-06-09, 6:00 PM, 2, Rock Em Sock Em, L (11-10)
 2015-06-16, 7:00 PM, 2, Misfits,
 2015-06-18, 9:00 PM, 2, Veritas,
-2015-06-23, 6:00 PM, 2, Rock 'Em Sock 'Em,
+2015-06-23, 6:00 PM, 2, Rock Em Sock Em,
 2015-06-30, 7:00 PM, 1, Scared Hitless,
-2015-07-07, 6:00 PM, 2, Rock 'Em Sock 'Em,
+2015-07-07, 6:00 PM, 2, Rock Em Sock Em,
