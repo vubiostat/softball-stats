@@ -22,3 +22,15 @@
  9 Will RC
 10 Cassidy CA
 11 FrankH EH
+   ----
+   5 - 20150616 - Misfits
+ 1 Cole P
+ 2 Lauren 3B
+ 3 Jeffrey 1B
+ 4 Sarah RC
+ 5 Will LC
+ 6 Sandya RF
+ 7 Dave SS
+ 8 Cassidy CA
+ 9 FrankH 2B
+10 Bryan LF
