@@ -4,7 +4,7 @@ Date, Time, Field, Opponent, Result
 2015-06-02, 7:00 PM, 1, Round Trippers, W (F)
 2015-06-09, 6:00 PM, 2, Rock Em Sock Em, L (11-10)
 2015-06-16, 7:00 PM, 2, Misfits, L (15-1)
-2015-06-18, 9:00 PM, 2, Veritas,
+2015-06-18, 9:00 PM, 2, Veritas, T (8-8)
 2015-06-23, 6:00 PM, 2, Rock Em Sock Em,
 2015-06-30, 7:00 PM, 1, Scared Hitless,
 2015-07-07, 6:00 PM, 2, Rock Em Sock Em,
