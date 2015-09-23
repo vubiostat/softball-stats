@@ -1,7 +1,7 @@
 Date, Time, Field, Opponent, Result
 2015-09-14, 8:00 PM, 2, Sleckmasters, W (11-7)
 2015-09-17, 8:00 PM, 2, Heads of Tate, W (14-9)
-2015-09-22, 8:00 PM, 1, Vandy Law L, 
+2015-09-22, 8:00 PM, 1, Vandy Law L, W (14-8)
 2015-09-24, 8:00 PM, 1, Rock Em Sock Em, 
 2015-09-28, 7:00 PM, 2, Biohazard, 
 2015-10-01, 8:00 PM, 2, Sleckmasters, 
