@@ -34,3 +34,15 @@
  8 Brooklyn RF
  9 Will 1B
 10 Hannah CA
+   ---
+   4 - 20150924 - Rock Em Sock Em
+ 1 Michael LC
+ 2 Molly SS
+ 3 Jeffrey 1B
+ 4 Hannah RC
+ 5 Cole P/LF
+ 6 Brooklyn RF
+ 7 Patrick LF -> Will LF -> Patrick P
+ 8 Lucy CA
+ 9 MarkL 3B
+10 Leena 2B

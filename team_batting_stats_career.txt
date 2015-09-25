@@ -1,2 +1,2 @@
-seasons, games, batters, inn,   PA,   AB,   R,   H, X2B, X3B,  HR, RBI,  BB,  SO, SF, GDP,    BA,   OBP,   SLG,   OPS,    SA,      RC,      XR
-     13,    88,    1006, 489, 2533, 2321, 579, 983, 106,  50, 107, 571, 201, 161,  9,  23, 0.424, 0.468, 0.651, 1.118, 0.314, 640.431, 606.530
+seasons, games, batters, inn,   PA,   AB,   R,    H, X2B, X3B,  HR, RBI,  BB,  SO, SF, GDP,    BA,   OBP,   SLG,   OPS,    SA,      RC,      XR
+     13,    89,    1018, 495, 2577, 2360, 597, 1004, 107,  53, 111, 589, 206, 165,  9,  23, 0.425, 0.470, 0.657, 1.127, 0.319, 658.316, 623.030
