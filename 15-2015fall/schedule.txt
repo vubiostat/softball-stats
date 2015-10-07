@@ -5,3 +5,6 @@ Date, Time, Field, Opponent, Result
 2015-09-24, 8:00 PM, 1, Rock Em Sock Em, W (18-9)
 2015-09-28, 7:00 PM, 2, Biohazard, W (7-4)
 2015-10-01, 8:00 PM, 2, Sleckmasters, Cancelled
+2015-10-04, 4:00 PM, 2, Hairy Hands, W (F)
+2015-10-06, 8:00 PM, 2, Rock Em Sock Em, W (14-13)
+2015-10-07, 8:00 PM, 2, ?, 

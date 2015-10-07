@@ -57,3 +57,14 @@
  7 Leena 2B
  8 Seth LC
  9 Kylie RF
+   ---
+   8 - 20151006 - Rock Em Sock Em
+ 1 Michael CF
+ 2 Molly SS
+ 3 Jeffrey 1B
+ 4 Hannah 2B
+ 5 Cole P
+ 6 Sarah RF
+ 7 Will 3B -> MarkL 3B
+ 8 Brooklyn CA -> Lucy CA
+ 9 Patrick LF
