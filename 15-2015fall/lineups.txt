@@ -68,3 +68,14 @@
  7 Will 3B -> MarkL 3B
  8 Brooklyn CA -> Lucy CA
  9 Patrick LF
+   ---
+   9 - 20151007 - We've Got the Runs
+ 1 Michael CF
+ 2 Molly SS
+ 3 Jeffrey 1B -> Seth 1B
+ 4 Cassidy CA -> Brooklyn CA/2B
+ 5 Cole P
+ 6 Hannah 2B -> Lucy CA
+ 7 MarkL RF -> Will RF
+ 8 Alice 3B
+ 9 Patrick LF
