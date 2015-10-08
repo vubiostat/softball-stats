@@ -97,7 +97,7 @@ game, inning, batter,    runners, outs, outcome
 9,    1,      Seth,      1--,     2,    1B.1-2
 9,    1,      Donna,     12-,     2,    4-3
 9,    2,      Jeremy,    ---,     0,    1B
-9,    2,      AmyW,       1--,     0,    FC.1X2
+9,    2,      AmyW,      1--,     0,    FC.1X2
 9,    2,      FrankH,    1--,     1,    FC.1X2
 9,    2,      Will,      1--,     2,    2B.1-3
 9,    2,      Cole,      -23,     2,    2B.3-H;2-H
@@ -107,7 +107,7 @@ game, inning, batter,    runners, outs, outcome
 9,    3,      Seth,      ---,     0,    1B
 9,    3,      Donna,     1--,     0,    1B.1-2
 9,    3,      Rafe,      12-,     0,    FC.2X3;1-2
-9,    3,      AmyW,       12-,     1,    1B.2-3;1-2
+9,    3,      AmyW,      12-,     1,    1B.2-3;1-2
 9,    3,      FrankH,    123,     1,    1B.3-H;2-3;1-2
 9,    3,      Will,      123,     1,    F4.2X2
 9,    4,      FrankF,    ---,     0,    F6
@@ -117,7 +117,7 @@ game, inning, batter,    runners, outs, outcome
 9,    5,      Seth,      1--,     0,    FC.1X2
 9,    5,      Donna,     1--,     1,    FO2
 9,    5,      Rafe,      1--,     2,    1B;1-2
-9,    5,      AmyW,       12-,     2,    F6
+9,    5,      AmyW,      12-,     2,    F6
 11,   1,      FrankH,    ---,     0,    1B
 11,   1,      Nicole,    1--,     0,    F1
 11,   1,      Will,      1--,     1,    1B.1-2
