@@ -5,7 +5,7 @@ Date, Time, Field, Opponent, Result
 2009-09-22, 5:00 PM, 4, Bar Magnets, L (1-13)
 2009-09-23, 8:00 PM, 2, Medicine Maniacs, rain 10/6
 2009-09-28, 6:00 PM, 2, The Ionizers, L (2-23)
-2009-09-30, 7:00 PM, 2, Radiology VCH, L (5-7)
+2009-09-30, 7:00 PM, 2, VCH Radiology, L (5-7)
 2009-10-05, 6:00 PM, 2, Psoftball Psychos, L (6-24)
 2009-10-06, 8:00 PM, 2, Medicine Maniacs, rain 10/8
 2009-10-08, 5:00 PM, 4, Medicine Maniacs,
