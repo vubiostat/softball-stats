@@ -1,0 +1,2 @@
+games, batters, inn, PA, AB, R, H, X2B, X3B, HR, RBI, BB, SO, SF, GDP,    BA,   OBP,   SLG,   OPS,    SA,    RC,    XR
+    5,      63,   0,  0,  0, 0, 0,   0,   0,  0,   0,  0,  0,  0,   0, 0.000, 0.000, 0.000, 0.000, 0.000, 0.000, 0.000
