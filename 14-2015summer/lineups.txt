@@ -5,7 +5,7 @@
  4 Jessica CA
  5 MarkG RC/RF
  6 Lauren RF/RC
- 7 Frank 1B
+ 7 FrankH 1B
  8 Amanda 2B
  9 Jeremy 3B
 10 Seth LC
