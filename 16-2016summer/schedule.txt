@@ -1,6 +1,6 @@
 Date, Time, Field, Opponent, Result
 2016-05-24, 7:00 PM, 1, Rock Em Sock Em, W (12-7)
-2016-05-31, 8:00 PM, 2, Bad Medicine, 
+2016-05-31, 8:00 PM, 2, Bad Medicine, L (4-15)
 2016-06-07, 6:00 PM, 1, Misfits, 
 2016-06-14, 7:30 PM, 1, Neuro ICU, 
 2016-06-21, 8:00 PM, 1, Reckers, 

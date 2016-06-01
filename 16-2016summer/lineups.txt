@@ -9,3 +9,15 @@
  8 Jessica CA
  9 Will LF
 10 MarkL 3B
+   ---
+   2 - 20160531 - Bad Medicine
+ 1 Michael LC
+ 2 Whitney 2B
+ 3 Jeffrey 1B
+ 4 Molly SS
+ 5 Cole P
+ 6 Hannah CA -> Jessica CA
+ 7 Patrick LF
+ 8 Kelsey LF -> Lucy LF
+ 9 MarkG 3B
+10 Will RC
