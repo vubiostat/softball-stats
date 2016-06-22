@@ -2,7 +2,7 @@ Date, Time, Field, Opponent, Result
 2016-05-24, 7:00 PM, 1, Rock Em Sock Em, W (12-7)
 2016-05-31, 8:00 PM, 2, Bad Medicine, L (4-14)
 2016-06-07, 6:00 PM, 1, Misfits, W (14-8)
-2016-06-21, 8:00 PM, 1, Reckers, 
+2016-06-21, 8:00 PM, 1, Reckers, W (F)
 2016-06-28, 7:00 PM, 2, Veritas, 
 2016-07-05, 7:00 PM, 1, CVICU Pulse, 
 2016-07-12, 6:00 PM, 2, Sutures, 

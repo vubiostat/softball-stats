@@ -33,3 +33,15 @@
  8 Jessica CA
  9 MarkL SF -> Patrick RC
 10 Will RF
+   ----
+   4 - 20160621 - Reckers
+ 1 Michael LC
+ 2 Michelle LF
+ 3 Cole P
+ 4 Molly SS
+ 5 Will RC
+ 6 Kelsey CA
+ 7 MarkG 1B
+ 8 Hannah 2B
+ 9 NickX RF
+10 Austin 3B
