@@ -23,7 +23,7 @@ averages <- function(stats) {
     # recalculate averages
     tb <- with(stats, (H + X2B + X3B*2 + HR*3))
     stats$BA  <- with(stats, round(na0(H / AB), 3))
-    stats$OBP <- with(stats, na0((H + BB) / (AB + BB + SF)))
+    stats$OBP <- with(stats, na0((H + BB) / PA))
     stats$SLG <- with(stats, na0(tb / AB))
     stats$OPS <- with(stats, round(OBP + SLG, 3))
     stats$SA  <- with(stats, round(na0((tb - H + BB) / AB), 3))
