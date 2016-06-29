@@ -28,7 +28,7 @@
  3 Jeffrey 1B
  4 Molly SS
  5 Cole P
- 6 Whitney 2B -> Lena 2B
+ 6 Whitney 2B -> Leena 2B
  7 Ian 3B
  8 Jessica CA
  9 MarkL SF -> Patrick RC
@@ -45,3 +45,15 @@
  8 Hannah 2B
  9 NickX RF
 10 Austin 3B
+   ----
+   5 - 20160628 - Veritas
+ 1 Michael LC
+ 2 Molly SS
+ 3 Jeffrey 1B
+ 4 Kelsey RF
+ 5 Cole P
+ 6 Leena 2B
+ 7 Ian LF
+ 8 Jessica CA
+ 9 MarkG 3B
+10 Will RC
