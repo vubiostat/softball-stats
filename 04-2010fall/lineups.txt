@@ -1,6 +1,6 @@
    2 - 20100916 - Ionizers
  1 Seth LC
- 2 Sarah CA
+ 2 SarahFM CA
  3 Jeffrey 1B
  4 Donna 3B
  5 FrankF SS
@@ -16,7 +16,7 @@
  3 Cole SS/LF
  4 Nicole 2B
  5 Jeffrey 1B
- 6 Sarah CA
+ 6 SarahFM CA
  7 Sandeep RC
  8 Donna EH
  9 Will P
@@ -29,7 +29,7 @@
  1 Mario LC -> Bryan LC
  2 Svetlana RF
  3 Jeffrey 1B -> Sandeep LF
- 4 Sarah CA
+ 4 SarahFM CA
  5 Will P -> Charlie P
  6 Nicole 2B
  7 Seth LF/1B

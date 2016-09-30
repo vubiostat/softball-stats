@@ -37,11 +37,11 @@
  7 Jeffrey 1B
  8 Leena 2B -> Cathy 2B
  9 FrankF SS
-10 Sarah CA -> Svetlana CA
+10 SarahFM CA -> Svetlana CA
    ----
    5 - 20110609 - Accelerators
  1 Mario LC
- 2 Sarah CA
+ 2 SarahFM CA
  3 Will P/1B/RC
  4 Sharon 3B/EH
  5 Dan SS -> JeffreyX 3B
@@ -57,7 +57,7 @@
  1 Mario LC
  2 Adiba 3B
  3 Will P
- 4 Sarah CA
+ 4 SarahFM CA
  5 Seth RC
  6 Michelle LF/2B
  7 FrankF SS
@@ -81,7 +81,7 @@
  1 Mario LC
  2 Adiba 3B
  3 Seth RC
- 4 Sarah CA
+ 4 SarahFM CA
  5 Jeffrey 1B/SS
  6 Leena RF -> Kelly RF
  7 FrankH LF
@@ -91,7 +91,7 @@
    ----
    12 - 20110721 - Accelerators
  1 Will P
- 2 Sarah CA
+ 2 SarahFM CA
  3 Jeffrey 1B
  4 Cathy 2B
  5 Seth CF

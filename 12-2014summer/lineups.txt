@@ -18,7 +18,7 @@
  5 Jeffrey 1B
  6 Cathy CA
  7 Austin 3B -> Tatsuki 3B
- 8 Sarah RF
+ 8 SarahFM RF
  9 Dave RC
 10 Will SS
    ----
@@ -30,7 +30,7 @@
  5 MarkG RC -> Minchun RC
  6 Shu RF -> Jennifer RF
  7 Austin 3B -> Dave 3B
- 8 Sarah CA
+ 8 SarahFM CA
  9 Mario LC
 10 MarkL SS/P
    ----
@@ -42,7 +42,7 @@
  5 Seth LC
  6 Cathy CA
  7 Minchun RC
- 8 Sarah RF
+ 8 SarahFM RF
  9 Austin 3B
 10 Will LF
    ----
@@ -54,7 +54,7 @@
  5 Will LF/EH
  6 Cathy 2B
  7 Austin EH/1B -> Minchun RC
- 8 Sarah RF/EH
+ 8 SarahFM RF/EH
  9 Dave 1B/EH
 10 Sandya EH/RF
 11 MarkG RC/LF
@@ -70,7 +70,7 @@
  7 Seth RC/EH
  8 Sandya EH/RF
  9 MarkG RF/EH -> Dave 3B/EH
-10 Sarah CA/EH
+10 SarahFM CA/EH
 11 Will EH/RC/3B/SS/RF
 12 Mario LC
    ----
@@ -80,7 +80,7 @@
  3 Cole P
  4 Cathy 2B
  5 Jeffrey 1B
- 6 Sarah CA
+ 6 SarahFM CA
  7 Austin 3B -> Will SS/3B
  8 Sandya RF
  9 MarkG RC

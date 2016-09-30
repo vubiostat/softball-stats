@@ -1,6 +1,6 @@
    1 - 20120417 - Ionizers
  1 Cole P
- 2 Sarah RC
+ 2 SarahFM RC
  3 Seth LC
  4 Michelle LF
  5 Tatsuki 1B
@@ -14,7 +14,7 @@
    ----
    2 - 20120418a - Knockouts
  1 Cole 3B/P
- 2 Sarah RC
+ 2 SarahFM RC
  3 Seth LC
  4 Michelle LF
  5 FrankF SS
@@ -28,7 +28,7 @@
    ----
    3 - 20120418b - Psoftball Psychos
  1 FrankF SS
- 2 Sarah 2B
+ 2 SarahFM 2B
  3 Seth CF/LC
  4 Michelle LF
  5 Jeffrey 1B

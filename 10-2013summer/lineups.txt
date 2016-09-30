@@ -2,7 +2,7 @@
  1 Cole P
  2 Michelle LF
  3 MarkL 3B -> Austin 3B
- 4 Sarah RF
+ 4 SarahFM RF
  5 Jeffrey 1B
  6 Cathy 2B
  7 Minchun RC
@@ -14,7 +14,7 @@
  1 Cole P
  2 Michelle LF
  3 MarkL RC/EH
- 4 Sarah RF
+ 4 SarahFM RF
  5 Jeffrey 1B
  6 Whitney 2B/EH
  7 Austin 3B -> Dave 3B
@@ -30,7 +30,7 @@
  3 MarkL 3B
  4 Whitney CA
  5 Jeffrey 1B
- 6 Sarah RF
+ 6 SarahFM RF
  7 FrankF SS
  8 Nicole 2B
  9 Dave RC
@@ -45,7 +45,7 @@
  5 Jeffrey 1B -> Minchun RC
  6 Whitney RF
  7 FrankF SS
- 8 Sarah CA
+ 8 SarahFM CA
  9 FrankH EH
 10 Tina EH
 11 Will RC/1B
@@ -67,7 +67,7 @@
  1 Cole P
  2 Michelle LF
  3 MarkL SS -> Minchun RC
- 4 Sarah RF
+ 4 SarahFM RF
  5 Jeffrey 1B
  6 Leena 2B
  7 Austin 3B/SS
@@ -79,7 +79,7 @@
  1 Cole P
  2 Michelle LF
  3 FrankH 1B
- 4 Sarah 2B -> Whitney 2B
+ 4 SarahFM 2B -> Whitney 2B
  5 Minchun RC
  6 Kylie CA
  7 Austin 3B
@@ -93,7 +93,7 @@
  3 Seth RC/EH
  4 Whitney RF/2B
  5 Jeffrey 1B/RC
- 6 Sarah EH
+ 6 SarahFM EH
  7 Mario LC
  8 Kylie CA
  9 Austin 3B
@@ -108,7 +108,7 @@
  3 Cole P
  4 Whitney CA
  5 Jeffrey 1B
- 6 Sarah RF
+ 6 SarahFM RF
  7 Austin 3B -> Dave 3B
  8 Cathy 2B
  9 FrankF SS
@@ -124,7 +124,7 @@
  5 Seth RC -> Minchun RC
  6 Leena CA
  7 Austin 3B -> Dave 3B
- 8 Sarah RF -> Tina RF
+ 8 SarahFM RF -> Tina RF
  9 FrankF SS -> MarkL SS
 10 Jeffrey 1B
    ----

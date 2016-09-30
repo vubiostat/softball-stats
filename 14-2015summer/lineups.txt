@@ -16,7 +16,7 @@
  3 MarkL SS
  4 Whitney LF
  5 Jeffrey 1B
- 6 Sarah RF
+ 6 SarahFM RF
  7 Seth LC
  8 Cathy 2B
  9 Will RC
@@ -27,7 +27,7 @@
  1 Cole P
  2 Lauren 3B
  3 Jeffrey 1B
- 4 Sarah RC
+ 4 SarahFM RC
  5 Will LC
  6 Sandya RF
  7 Dave SS
@@ -56,7 +56,7 @@
  7 MarkL P
  8 Jessica CA -> Cassidy CA
  9 Seth RC
-10 Sarah RF
+10 SarahFM RF
 11 FrankH EH
 12 Cathy 2B
    ----

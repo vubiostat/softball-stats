@@ -2,7 +2,7 @@
  1 Patrick 3B -> Nick 3B
  2 Molly SS
  3 Jeffrey 1B -> Ryan LC
- 4 Sarah RF -> Brooklyn RC
+ 4 SarahFM RF -> Brooklyn RC
  5 Michael LC -> Will 1B
  6 Whitney 2B
  7 Cole P
@@ -27,7 +27,7 @@
  1 Michael LC
  2 Molly SS
  3 Patrick LF
- 4 Sarah RC
+ 4 SarahFM RC
  5 Cole P
  6 Whitney 2B
  7 MarkL 3B
@@ -64,7 +64,7 @@
  3 Jeffrey 1B
  4 Hannah 2B
  5 Cole P
- 6 Sarah RF
+ 6 SarahFM RF
  7 Will 3B -> MarkL 3B
  8 Brooklyn CA -> Lucy CA
  9 Patrick LF

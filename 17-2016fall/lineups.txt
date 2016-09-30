@@ -15,7 +15,7 @@
  3 Jeffrey 1B
  4 Hannah 2B
  5 Ian P
- 6 SarahX RF
+ 6 SarahL RF
  7 MarkG 3B -> Cole 3B/LF
  8 Kate CA
  9 Will LF/3B
@@ -35,7 +35,7 @@
  1 Michael CF
  2 Whitney LF
  3 Jeffrey 1B
- 4 SarahX RF
+ 4 SarahL RF
  5 Cole P
  6 Leena 2B
  7 Joshua 3B

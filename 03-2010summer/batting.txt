@@ -72,7 +72,7 @@ game, inning, batter,    runners, outs, outcome
 8,    1,      Will,      12-,     2,    1-3
 8,    2,      Donna,     ---,     0,    1B
 8,    2,      Seth,      1--,     0,    1B.1-2
-8,    2,      Sarah,     12-,     0,    1B.2-3;1-2
+8,    2,      SarahFM,   12-,     0,    1B.2-3;1-2
 8,    2,      Chris,     123,     0,    F1
 8,    2,      Elizabeth, 123,     1,    Kf
 8,    2,      Cole,      123,     2,    F8
@@ -82,7 +82,7 @@ game, inning, batter,    runners, outs, outcome
 8,    3,      Will,      1--,     1,    FC.1X2
 8,    3,      Donna,     1--,     2,    F1
 8,    4,      Seth,      ---,     0,    3B
-8,    4,      Sarah,     --3,     0,    1-3
+8,    4,      SarahFM,   --3,     0,    1-3
 8,    4,      Chris,     --3,     1,    1B.3-H
 8,    4,      Elizabeth, 1--,     1,    6-4-3
 8,    5,      Cole,      ---,     0,    1B
@@ -121,7 +121,7 @@ game, inning, batter,    runners, outs, outcome
 11,   1,      FrankH,    ---,     0,    1B
 11,   1,      Nicole,    1--,     0,    F1
 11,   1,      Will,      1--,     1,    1B.1-2
-11,   1,      Sarah,     12-,     1,    Kf
+11,   1,      SarahFM,   12-,     1,    Kf
 11,   1,      Seth,      12-,     2,    FC(7-5).2X3
 11,   2,      Donna,     ---,     0,    6-3
 11,   2,      Jeffrey,   ---,     1,    Ks
@@ -131,7 +131,7 @@ game, inning, batter,    runners, outs, outcome
 11,   3,      Bashar,    1--,     1,    4-3.1-2
 11,   3,      Nicole,    -2-,     2,    1-3
 11,   4,      Cole,      ---,     0,    HR
-11,   4,      Sarah,     ---,     0,    1B
+11,   4,      SarahFM,   ---,     0,    1B
 11,   4,      Zu-Wen,    1--,     0,    F6
 11,   4,      Donna,     1--,     1,    4-3.1-2
 11,   4,      Jeffrey,   -2-,     2,    1B.2-H
@@ -144,7 +144,7 @@ game, inning, batter,    runners, outs, outcome
 12,   1,      Mario,     ---,     0,    1B
 12,   1,      Nicole,    1--,     0,    FC(6-4).1X2
 12,   1,      FrankF,    1--,     1,    FC(4-6).1X2
-12,   1,      Sarah,     1--,     2,    1-3
+12,   1,      SarahFM,   1--,     2,    1-3
 12,   2,      Jeffrey,   ---,     0,    F8
 12,   2,      Cathy,     ---,     1,    W
 12,   2,      Seth,      1--,     1,    FC(6-4).1X2
@@ -154,7 +154,7 @@ game, inning, batter,    runners, outs, outcome
 12,   3,      Mario,     ---,     2,    6-3
 12,   4,      Nicole,    ---,     0,    1B
 12,   4,      FrankF,    1--,     0,    FC.1X2
-12,   4,      Sarah,     1--,     1,    1-3.1-2
+12,   4,      SarahFM,   1--,     1,    1-3.1-2
 12,   4,      Jeffrey,   -2-,     2,    1-3
 12,   5,      Cathy,     ---,     0,    1B
 12,   5,      Jeremy,    1--,     0,    1B.1X2
@@ -164,7 +164,7 @@ game, inning, batter,    runners, outs, outcome
 12,   5,      Mario,     -23,     2,    1B.3-H;2-H;B-2
 12,   5,      Nicole,    -2-,     2,    F1
 12,   6,      FrankF,    ---,     0,    6-3
-12,   6,      Sarah,     ---,     1,    F5
+12,   6,      SarahFM,   ---,     1,    F5
 12,   6,      Jeffrey,   ---,     2,    1B
 12,   6,      Cathy,     1--,     2,    F6
 12,   7,      Jeremy,    ---,     0,    F4
