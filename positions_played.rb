@@ -15,6 +15,11 @@ options = OptionParser.new do |opts|
     OPTS[:position] = Regexp.new(p)
   end
 
+  OPTS[:subtotal] = false
+  opts.on('-s', '--subtotals') do
+    OPTS[:subtotal] = true
+  end
+
   opts.on('-h', '--help') do
     puts opts
     exit
@@ -44,8 +49,14 @@ end
 if DB.length > 0
   size = DB.keys.max_by(&:length).length
   DB.sort_by {|k,v| k}.each do |n,v|
-    v.each do |p,c|
-      puts "#{n.ljust(size)}\t#{p}\t#{c}" #\t#{sprintf("%d %", 100.0*c/sub_total)}"
+    if OPTS[:subtotal]
+      sub_total = v.values.inject(:+)
+      max = v.values.max
+      puts "#{n.ljust(size)}\t#{v.length}\t#{max}\t#{sub_total - max}"
+    else
+      v.each do |p,c|
+        puts "#{n.ljust(size)}\t#{p}\t#{c}" #\t#{sprintf("%d %", 100.0*c/sub_total)}"
+      end
     end
   end
 else
