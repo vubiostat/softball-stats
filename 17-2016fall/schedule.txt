@@ -5,4 +5,5 @@ Date, Time, Field, Opponent, Result
 2016-09-22, 5:00 PM, 2, Reckers, W (13-0)
 2016-09-29, 5:00 PM, 2, Heads of Tate, W (16-7)
 2016-10-04, 5:00 PM, 2, Law Abiding Citizens, Cancelled
-2016-10-03, 7:00 PM, 2, TBD
+2016-10-03, 8:00 PM, 1, Rock Em Sock Em, W (11-5)
+2016-10-05, 6:00 PM, 1, Reckers, 

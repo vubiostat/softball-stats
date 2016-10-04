@@ -41,3 +41,14 @@
  7 Joshua 3B
  8 Kate CA
  9 Will SS
+   ----
+   7 - 20161003 - Rock Em Sock Em
+ 1 Michael CF
+ 2 Molly SS
+ 3 Jeffrey 1B -> MarkG 1B
+ 4 Hannah 2B
+ 5 Cole P
+ 6 SarahL RF
+ 7 Ian 3B -> Joshua 3B
+ 8 Lucy CA
+ 9 Patrick LF -> Will LF
