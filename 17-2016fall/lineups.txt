@@ -52,3 +52,14 @@
  7 Ian 3B -> Joshua 3B
  8 Lucy CA
  9 Patrick LF -> Will LF
+   ----
+   8 - 20160105 - Reckers
+ 1 Michael CF
+ 2 Molly SS
+ 3 Jeffrey 1B
+ 4 Whitney 2B
+ 5 Cole P
+ 6 Hannah CA
+ 7 Joshua 3B -> Ian LF
+ 8 SarahL RF
+ 9 Will LF -> MarkG 3B
