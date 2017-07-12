@@ -99,7 +99,7 @@ game, inning, batter,   runners, outs, outcome
 3,    6,      Cole,     1--,     0,    HR.1-H
 3,    6,      Whitney,  ---,     0,    1B
 3,    6,      MarkL,    1--,     0,    FC(4-6).1X2
-3,    6,      Brooklyn, 1--,     1,    1B,1-2
+3,    6,      Brooklyn, 1--,     1,    1B.1-2
 3,    6,      Will,     12-,     1,    2B.2-H;1-3
 3,    6,      Hannah,   -23,     1,    F6
 3,    6,      Michael,  -23,     2,    HR.3-H;2-H

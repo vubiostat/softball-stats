@@ -65,7 +65,7 @@
  4 Kelsey CA
  5 Cole P
  6 Michelle LF
- 7 MarKL 3B
+ 7 MarkL 3B
  8 Hannah 2B
  9 MarkG RF
 10 Will RC
