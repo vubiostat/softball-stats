@@ -9,3 +9,15 @@
  8 Hannah CA
  9 Will P
 10 MarkG LF
+   ----
+   2 - 20170713 - Bad Medicine
+ 1 Michael LC
+ 2 Molly SS
+ 3 Mario LF
+ 4 Hannah 2B
+ 5 Jeffrey 1B
+ 6 SarahL RF
+ 7 MarkG RC -> Thomas RC
+ 8 ElizabethS CA
+ 9 Joshua 3B
+10 Will P
