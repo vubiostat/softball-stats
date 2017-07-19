@@ -21,3 +21,15 @@
  8 ElizabethS CA
  9 Joshua 3B
 10 Will P
+   ----
+   3 - 20170718 - Veritas
+ 1 Michael LC
+ 2 Whitney LF
+ 3 Dustin SS/P
+ 4 SarahL RF
+ 5 Cole RC/SS
+ 6 Hannah 2B
+ 7 Jeffrey 1B
+ 8 Valerie CA
+ 9 Will P/RC
+10 Joshua 3B -> MarkG 3B
