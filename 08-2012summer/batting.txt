@@ -270,7 +270,7 @@ game, inning, batter,   runners, outs, outcome
 12,   3,      MarkL,    1--,     0,    1B.1-2
 12,   3,      SarahFM,  12-,     0,    1B.2-3;1-2
 12,   3,      Jeffrey,  123,     0,    F7
-12,   3,      Cathy,    123,     1,    BB.3-H;2-3;1-2
+12,   3,      Cathy,    123,     1,    W.3-H;2-3;1-2
 12,   3,      Mario,    123,     1,    1B.3-H;2-3;1-2
 12,   3,      Kylie,    123,     1,    1B.3-H;2-3;1-2
 12,   3,      Brant,    123,     1,    ?-?-?.1X2
