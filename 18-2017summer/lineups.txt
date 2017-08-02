@@ -45,3 +45,15 @@
  8 Valerie CA
  9 Will RC
 10 Mario LF
+   ----
+   7 - 20170801 - Sutures
+ 1 Cole P
+ 2 Molly SS
+ 3 Jeffrey 1B
+ 4 Hannah 2B
+ 5 Joshua 3B
+ 6 Valerie RF
+ 7 MarkG RC
+ 8 Kate CA
+ 9 Will LC
+10 JohnL LF
