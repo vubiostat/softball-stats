@@ -1,6 +1,6 @@
    1 - 20120517 - Dogs of Nashville
  1 Cole P
- 2 Sarah RF
+ 2 SarahFM RF
  3 FrankF SS
  4 Michelle LF
  5 Will RC -> Jeffrey 1B
@@ -16,7 +16,7 @@
  3 FrankF SS -> Will 3B
  4 Nicole 2B
  5 Mario LF
- 6 Sarah RF
+ 6 SarahFM RF
  7 MarkL 3B/SS
  8 Kylie CA
  9 Jiang RC -> Seth RC
@@ -24,7 +24,7 @@
    ----
    3 - 20120524 - Misfits
  1 Cole P
- 2 Sarah LF
+ 2 SarahFM LF
  3 FrankF SS
  4 Casey 2B/RC
  5 Jeffrey 1B
@@ -36,7 +36,7 @@
    ----
    4 - 20120531 - Ionizers
  1 Cole P
- 2 Sarah LF
+ 2 SarahFM LF
  3 MarkL SS
  4 Cathy 2B
  5 Will 3B
@@ -50,7 +50,7 @@
  1 Cole P
  2 Michelle LF
  3 Seth LC
- 4 Sarah RF
+ 4 SarahFM RF
  5 Jeffrey 1B
  6 Jennifer 2B
  7 Will RC/3B
@@ -74,7 +74,7 @@
    ----
    7 - 20120614 - Scared Hitless
  1 Cole P
- 2 Sarah 3B
+ 2 SarahFM 3B
  3 MarkL SS
  4 Jennifer 2B
  5 Jeffrey 1B
@@ -88,7 +88,7 @@
  1 Cole P
  2 Michelle LF
  3 Jeffrey 1B
- 4 Sarah RF
+ 4 SarahFM RF
  5 MarkL SS
  6 Cathy 2B/CA
  7 Will 3B
@@ -112,7 +112,7 @@
  1 Cole P
  2 Michelle LF
  3 MarkL 3B
- 4 Sarah RF
+ 4 SarahFM RF
  5 Jeffrey 1B
  6 Cathy 2B
  7 Mario LC
@@ -138,7 +138,7 @@
  1 Cole P
  2 Michelle LF
  3 MarkL SS/3B
- 4 Sarah 2B/RF
+ 4 SarahFM 2B/RF
  5 Tatsuki 1B
  6 Jennifer 2B
  7 Seth RC -> Will RC

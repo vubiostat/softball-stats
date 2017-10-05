@@ -6,7 +6,7 @@ game, inning, batter,   runners, outs, outcome
 3,    1,      Cole,     ---,     2,    HR
 3,    1,      Cathy,    ---,     2,    F1
 3,    2,      Jeffrey,  ---,     0,    1B
-3,    2,      Sarah,    1--,     0,    F6
+3,    2,      SarahFM,  1--,     0,    F6
 3,    2,      Will,     1--,     1,    L6
 3,    2,      Casey,    1--,     2,    1B.1-2
 3,    2,      Austin,   12-,     2,    1B.2-H;1-2
@@ -18,7 +18,7 @@ game, inning, batter,   runners, outs, outcome
 3,    3,      Cole,     1-3,     1,    1B.3-H;1-2
 3,    3,      Cathy,    12-,     1,    F4
 3,    3,      Jeffrey,  12-,     2,    HR.2-H;1-H
-3,    3,      Sarah,    ---,     2,    L5
+3,    3,      SarahFM,  ---,     2,    L5
 3,    4,      Will,     ---,     0,    W
 3,    4,      Casey,    1--,     0,    1-3.1-2
 3,    4,      Austin,   -2-,     1,    3B.2-H
@@ -30,12 +30,12 @@ game, inning, batter,   runners, outs, outcome
 3,    5,      Cole,     12-,     0,    3B.2-H;1-H
 3,    5,      Cathy,    --3,     0,    6-3
 3,    5,      Jeffrey,  --3,     1,    1B.3-H
-3,    5,      Sarah,    1--,     1,    FC(5-6).1X2
+3,    5,      SarahFM,  1--,     1,    FC(5-6).1X2
 3,    5,      Will,     1--,     2,    F5
 4,    1,      Patrick,  ---,     0,    2B
 4,    1,      Cathy,    -2-,     0,    1B.2-H
 4,    1,      Cole,     1--,     0,    2B.1-3
-4,    1,      Sarah,    -23,     0,    F6
+4,    1,      SarahFM,  -23,     0,    F6
 4,    1,      Jeffrey,  -23,     1,    F6
 4,    1,      Sandya,   -23,     2,    L1
 4,    2,      Austin,   ---,     0,    F1
@@ -44,7 +44,7 @@ game, inning, batter,   runners, outs, outcome
 4,    3,      Patrick,  ---,     0,    1B
 4,    3,      Cathy,    1--,     0,    F6
 4,    3,      Cole,     1--,     1,    F9
-4,    3,      Sarah,    1--,     2,    1B.1-H;B-2
+4,    3,      SarahFM,  1--,     2,    1B.1-H;B-2
 4,    3,      Jeffrey,  -2-,     2,    1-3
 4,    4,      Sandya,   ---,     0,    Kf
 4,    4,      Austin,   ---,     1,    1-3
@@ -53,7 +53,7 @@ game, inning, batter,   runners, outs, outcome
 4,    5,      Patrick,  1--,     0,    1B.1-2
 4,    5,      Cathy,    12-,     0,    Kc
 4,    5,      Cole,     12-,     1,    HR.2-H;1-H
-4,    5,      Sarah,    ---,     1,    F9
+4,    5,      SarahFM,  ---,     1,    F9
 4,    5,      Jeffrey,  ---,     2,    1B
 4,    5,      Sandya,   1--,     2,    Ks
 4,    6,      Austin,   ---,     0,    1B
@@ -119,7 +119,7 @@ game, inning, batter,   runners, outs, outcome
 6,    5,      Ryan,     ---,     2,    1B
 6,    5,      Will,     1--,     2,    F9
 7,    1,      Will,     ---,     0,    F5
-7,    1,      Sarah,    ---,     1,    1B
+7,    1,      SarahFM,  ---,     1,    1B
 7,    1,      Seth,     1--,     1,    HR.1-H
 7,    1,      Sandya,   ---,     1,    Ks
 7,    1,      Austin,   ---,     2,    1B
@@ -128,7 +128,7 @@ game, inning, batter,   runners, outs, outcome
 7,    2,      Lucy,     1--,     0,    FC(5-4).1X2
 7,    2,      Cole,     1--,     1,    FC(6).1X2
 7,    2,      Will,     1--,     2,    Kc
-7,    3,      Sarah,    ---,     0,    F6
+7,    3,      SarahFM,  ---,     0,    F6
 7,    3,      Seth,     ---,     1,    L5
 7,    3,      Sandya,   ---,     2,    1-3
 7,    4,      Austin,   ---,     0,    1B
@@ -137,7 +137,7 @@ game, inning, batter,   runners, outs, outcome
 7,    4,      Lucy,     -2-,     2,    5-3
 7,    5,      Cole,     ---,     0,    U1
 7,    5,      Will,     ---,     1,    HR
-7,    5,      Sarah,    ---,     1,    Ks
+7,    5,      SarahFM,  ---,     1,    Ks
 7,    5,      Ryan,     ---,     2,    1B
 7,    5,      Sandya,   1--,     2,    U3
 7,    6,      Austin,   ---,     0,    F6
@@ -148,7 +148,7 @@ game, inning, batter,   runners, outs, outcome
 8,    1,      Cole,     1--,     0,    1-3.1-2
 8,    1,      Whitney,  -2-,     1,    W
 8,    1,      Jeffrey,  12-,     1,    HR.2-H;1-H
-8,    1,      Sarah,    ---,     1,    1B
+8,    1,      SarahFM,  ---,     1,    1B
 8,    1,      Seth,     1--,     1,    1B.1-2
 8,    1,      Cathy,    12-,     1,    W.2-3;1-2
 8,    1,      Will,     123,     1,    L1
@@ -160,7 +160,7 @@ game, inning, batter,   runners, outs, outcome
 8,    2,      Cole,     1-3,     2,    Kf
 8,    3,      Whitney,  ---,     0,    5-3
 8,    3,      Jeffrey,  ---,     1,    1B
-8,    3,      Sarah,    1--,     1,    2B.1-3
+8,    3,      SarahFM,  1--,     1,    2B.1-3
 8,    3,      Seth,     -23,     1,    1B.3-H;2-3
 8,    3,      Cathy,    1-3,     1,    L6
 8,    3,      Will,     1-3,     2,    1B.3-H;1-2
@@ -172,7 +172,7 @@ game, inning, batter,   runners, outs, outcome
 8,    5,      Cole,     ---,     0,    1B
 8,    5,      Whitney,  1--,     0,    F5.1-2
 8,    5,      Jeffrey,  -2-,     1,    HR.2-H
-8,    5,      Sarah,    ---,     1,    6-3
+8,    5,      SarahFM,  ---,     1,    6-3
 8,    5,      Seth,     ---,     2,    2B
 8,    5,      Cathy,    -2-,     2,    6-3
 8,    6,      Will,     ---,     0,    Ks
@@ -189,7 +189,7 @@ game, inning, batter,   runners, outs, outcome
 9,    1,      Mario,    ---,     2,    3B
 9,    1,      Whitney,  --3,     2,    1B.3-H
 9,    1,      Cole,     1--,     2,    3B.1-H;B-H
-9,    1,      Sarah,    ---,     2,    F7
+9,    1,      SarahFM,  ---,     2,    F7
 9,    2,      Jeffrey,  ---,     0,    1B
 9,    2,      Cathy,    1--,     0,    6-3.1-3
 9,    2,      Seth,     --3,     1,    1B.3-H;B-2
@@ -199,7 +199,7 @@ game, inning, batter,   runners, outs, outcome
 9,    3,      Mario,    ---,     1,    1B
 9,    3,      Whitney,  1--,     1,    6-3.1-2
 9,    3,      Cole,     -2-,     2,    F6
-9,    4,      Sarah,    ---,     0,    F7
+9,    4,      SarahFM,  ---,     0,    F7
 9,    4,      Jeffrey,  ---,     1,    1B
 9,    4,      Cathy,    1--,     1,    FC(6-4).1X2
 9,    4,      Seth,     1--,     2,    1B.1-2
@@ -209,7 +209,7 @@ game, inning, batter,   runners, outs, outcome
 9,    5,      Will,     -2-,     1,    1-3.2-3
 9,    5,      Whitney,  --3,     2,    F6
 9,    6,      Cole,     ---,     0,    F8
-9,    6,      Sarah,    ---,     1,    F7
+9,    6,      SarahFM,  ---,     1,    F7
 9,    6,      Jeffrey,  ---,     2,    1B
 9,    6,      Cathy,    1--,     2,    1B.1-2
 9,    6,      Seth,     12-,     2,    F7

@@ -1,0 +1,59 @@
+   1 - 20170711 - Rock Em Sock Em
+ 1 Michael LC
+ 2 Molly SS
+ 3 Jeffrey 1B
+ 4 Whitney 2B
+ 5 Joshua 3B
+ 6 SarahL RF
+ 7 Thomas RC
+ 8 Hannah CA
+ 9 Will P
+10 MarkG LF
+   ----
+   2 - 20170713 - Bad Medicine
+ 1 Michael LC
+ 2 Molly SS
+ 3 Mario LF
+ 4 Hannah 2B
+ 5 Jeffrey 1B
+ 6 SarahL RF
+ 7 MarkG RC -> Thomas RC
+ 8 ElizabethS CA
+ 9 Joshua 3B
+10 Will P
+   ----
+   3 - 20170718 - Veritas
+ 1 Michael LC
+ 2 Whitney LF
+ 3 Dustin SS/P
+ 4 SarahL RF
+ 5 Cole RC/SS
+ 6 Hannah 2B
+ 7 Jeffrey 1B
+ 8 Valerie CA
+ 9 Will P/RC
+10 Joshua 3B -> MarkG 3B
+   ----
+   4 - 20170720 - Reckers
+ 1 Michael LC
+ 2 Molly SS -> Kate EH
+ 3 Cole P
+ 4 Cathy 2B
+ 5 Joshua 3B
+ 6 Hannah RF
+ 7 MarkG 1B
+ 8 Valerie CA
+ 9 Will RC
+10 Mario LF
+   ----
+   7 - 20170801 - Sutures
+ 1 Cole P
+ 2 Molly SS
+ 3 Jeffrey 1B
+ 4 Hannah 2B
+ 5 Joshua 3B
+ 6 Valerie RF
+ 7 MarkG RC
+ 8 Kate CA
+ 9 Will LC
+10 JohnL LF

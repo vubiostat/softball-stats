@@ -20,7 +20,7 @@
    ----
    2 - 20090519 - Sutures
  1 Jeremy LC -> Mitsu LC
- 2 Kristen RC -> Lisa RC
+ 2 Kristen RC -> LisaK RC
  3 Cole SS/P
  4 Leena 3B
  5 PatrickA 1B
@@ -47,7 +47,7 @@
  9 PatrickA 1B -> Jeffrey 2B
 10 Will P
    ----
-   10 - 20090630 - Dayani Dirtbags
+   11 - 20090630 - Dayani Dirtbags
  1 Eric 3B -> Jeremy 3B
  2 Kylie RC
  3 PatrickA 1B -> Ben 1B
@@ -59,7 +59,7 @@
  9 FrankH SS -> Sandeep LF
 10 Will P/SS
    ----
-   20090707b - Misfits?
+   13 - 20090707b - Misfits
  1 Jeffrey 1B
  2 Eve RF -> Donna RF
  3 Jeremy RC/3B

@@ -1,0 +1,65 @@
+   1 - 20160913 - Heads of Tate
+ 1 Michael LF
+ 2 Molly SS
+ 3 Jeffrey 1B
+ 4 Hannah SF
+ 5 Will RF -> MarkG RF
+ 6 Leena 2B
+ 7 Joshua CF -> Ian CF
+ 8 Kate CA
+ 9 Cole P
+   ----
+   3 - 20160920 - Vandy Peds
+ 1 Michael CF
+ 2 Molly SS
+ 3 Jeffrey 1B
+ 4 Hannah 2B
+ 5 Ian P
+ 6 SarahL RF
+ 7 MarkG 3B -> Cole 3B/LF
+ 8 Kate CA
+ 9 Will LF/3B
+   ----
+   4 - 20160922 - Reckers
+ 1 Michael CF
+ 2 Molly SS
+ 3 Cole P
+ 4 Whitney 2B
+ 5 Will LF
+ 6 Hannah SF
+ 7 Joshua RF
+ 8 Leena CA
+ 9 MarkG RF
+   ----
+   5 - 20160929 - Heads of Tate
+ 1 Michael CF
+ 2 Whitney LF
+ 3 Jeffrey 1B
+ 4 SarahL RF
+ 5 Cole P
+ 6 Leena 2B
+ 7 Joshua 3B
+ 8 Kate CA
+ 9 Will SS
+   ----
+   7 - 20161003 - Rock Em Sock Em
+ 1 Michael CF
+ 2 Molly SS
+ 3 Jeffrey 1B -> MarkG 1B
+ 4 Hannah 2B
+ 5 Cole P
+ 6 SarahL RF
+ 7 Ian 3B -> Joshua 3B
+ 8 Lucy CA
+ 9 Patrick LF -> Will LF
+   ----
+   8 - 20160105 - Reckers
+ 1 Michael CF
+ 2 Molly SS
+ 3 Jeffrey 1B
+ 4 Whitney 2B
+ 5 Cole P
+ 6 Hannah CA
+ 7 Joshua 3B -> Ian LF
+ 8 SarahL RF
+ 9 Will LF -> MarkG 3B

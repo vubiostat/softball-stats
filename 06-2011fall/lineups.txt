@@ -2,7 +2,7 @@
  1 Mario LC -> Seth LC
  2 Michelle LF
  3 Cole SS/P
- 4 Sarah 3B/RC
+ 4 SarahFM 3B/RC
  5 Jeffrey 1B
  6 Donna 2B
  7 Tatsuki RC/SS
@@ -14,7 +14,7 @@
  1 Cole P
  2 Michelle LF
  3 Dustin 1B
- 4 Sarah 2B
+ 4 SarahFM 2B
  5 Seth CF
  6 Kylie CA
  7 Tatsuki 3B
@@ -23,7 +23,7 @@
    ----
    4 - 20110920 - IGP 2016
  1 Tatsuki 3B -> Will 3B
- 2 Sarah RF
+ 2 SarahFM RF
  3 Jeffrey 1B
  4 Michelle LF
  5 Seth CF -> Mario CF
@@ -34,7 +34,7 @@
    ----
    2 - 20110922 - Great Bam-Aminos
  1 Will P/RF
- 2 Sarah 3B
+ 2 SarahFM 3B
  3 Jeffrey 1B
  4 Michelle LF
  5 FrankF SS
@@ -46,7 +46,7 @@
    ----
    5 - 20110927 - Cheese Machine
  1 Cole P
- 2 Sarah 3B/2B
+ 2 SarahFM 3B/2B
  3 FrankF SS -> Jeffrey 1B
  4 Michelle LF
  5 Seth LC
@@ -58,7 +58,7 @@
    ----
    6 - 20110929 - Ionizers
  1 Will RC/SS/EH/1B
- 2 Sarah 3B
+ 2 SarahFM 3B
  3 Cole P
  4 Michelle LF
  5 Jeffrey 1B/EH

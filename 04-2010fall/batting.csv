@@ -2,7 +2,7 @@
 # :3,$Tabular /,\zs /l0
 game, inning, batter,    runners, outs, outcome
 2,    1,      Seth,      ---,     0,    1B
-2,    1,      Sarah,     1--,     0,    FC.1X2
+2,    1,      SarahFM,   1--,     0,    FC.1X2
 2,    1,      Jeffrey,   1--,     1,    1B.1X2
 2,    1,      Donna,     1--,     2,    1-3
 2,    2,      FrankF,    ---,     0,    F7
@@ -12,7 +12,7 @@ game, inning, batter,    runners, outs, outcome
 2,    2,      Will,      --3,     2,    1B.3-H
 2,    2,      Bashar,    1--,     2,    FC.1X2
 2,    3,      Seth,      ---,     0,    1B
-2,    3,      Sarah,     1--,     0,    F?
+2,    3,      SarahFM,   1--,     0,    F?
 2,    3,      Jeffrey,   1--,     1,    1B.1-2
 2,    3,      Donna,     12-,     1,    1B.2-3;1X2
 2,    3,      FrankF,    1-3,     2,    1B.3-H;1-2
@@ -22,7 +22,7 @@ game, inning, batter,    runners, outs, outcome
 2,    4,      Will,      ---,     1,    F1
 2,    4,      Bashar,    ---,     2,    4-3
 2,    5,      Seth,      ---,     0,    F7
-2,    5,      Sarah,     ---,     1,    F7
+2,    5,      SarahFM,   ---,     1,    F7
 2,    5,      Jeffrey,   ---,     2,    2B
 2,    5,      Donna,     -2-,     2,    1B.2-H
 2,    5,      FrankF,    1--,     2,    FC.1-2
@@ -32,7 +32,7 @@ game, inning, batter,    runners, outs, outcome
 4,    1,      Cole,      12-,     0,    1B.2-H;1-2
 4,    1,      Nicole,    12-,     0,    W.2-3;1-2
 4,    1,      Jeffrey,   123,     0,    W.3-H;2-3;1-2
-4,    1,      Sarah,     123,     0,    W+.3-H;2-3;1-2
+4,    1,      SarahFM,   123,     0,    W+.3-H;2-3;1-2
 4,    1,      Sandeep,   123,     0,    1B.3-H;2-3;1-2
 4,    1,      Donna,     123,     0,    W.3-H;2-3;1-2
 4,    1,      Will,      123,     0,    W.3-H;2-3;1-2
@@ -44,7 +44,7 @@ game, inning, batter,    runners, outs, outcome
 4,    1,      Cole,      123,     1,    F1
 4,    1,      Nicole,    123,     2,    U3
 4,    2,      Jeffrey,   ---,     0,    1B
-4,    2,      Sarah,     1--,     0,    W.1-2
+4,    2,      SarahFM,   1--,     0,    W.1-2
 4,    2,      Sandeep,   12-,     0,    F5
 4,    2,      Donna,     12-,     1,    1-3.2-3;1-2
 4,    2,      Will,      -23,     2,    W
@@ -56,12 +56,12 @@ game, inning, batter,    runners, outs, outcome
 4,    4,      Cole,      ---,     0,    F3
 4,    4,      Nicole,    ---,     1,    1B
 4,    4,      Jeffrey,   1--,     1,    1B.1X2
-4,    4,      Sarah,     1--,     2,    W.1-2
+4,    4,      SarahFM,   1--,     2,    W.1-2
 4,    4,      Sandeep,   12-,     2,    4-3
 5,    1,      Mario,     ---,     0,    F8
 5,    1,      Svetlana,  ---,     1,    Kc
 5,    1,      Jeffrey,   ---,     2,    1B
-5,    1,      Sarah,     1--,     2,    ?-?
+5,    1,      SarahFM,   1--,     2,    ?-?
 5,    2,      Will,      ---,     0,    1B
 5,    2,      Nicole,    1--,     0,    W.1-2
 5,    2,      Seth,      12-,     0,    F?
@@ -71,7 +71,7 @@ game, inning, batter,    runners, outs, outcome
 5,    3,      Mario,     ---,     0,    1B
 5,    3,      Svetlana,  1--,     0,    FC.1-2
 5,    3,      Jeffrey,   12-,     0,    F5
-5,    3,      Sarah,     12-,     1,    FC.2X3;1-2
+5,    3,      SarahFM,   12-,     1,    FC.2X3;1-2
 5,    3,      Will,      12-,     2,    Kc
 5,    4,      Nicole,    ---,     0,    F5
 5,    4,      Seth,      ---,     1,    1B
@@ -81,7 +81,7 @@ game, inning, batter,    runners, outs, outcome
 5,    5,      Bryan,     ---,     0,    1B
 5,    5,      Svetlana,  1--,     0,    W.1-2
 5,    5,      Sandeep,   12-,     0,    FC.2X3;1-2
-5,    5,      Sarah,     12-,     1,    Kc
+5,    5,      SarahFM,   12-,     1,    Kc
 5,    5,      Charlie,   12-,     2,    1B.2-3;1-2
 5,    5,      Nicole,    123,     2,    FC.1X2
 5,    6,      Seth,      ---,     0,    1B

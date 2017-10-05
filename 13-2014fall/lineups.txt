@@ -4,7 +4,7 @@
  3 Cole P
  4 Cathy 2B
  5 Jeffrey 1B
- 6 Sarah RF
+ 6 SarahFM RF
  7 Will LC/EH/RC
  8 Casey 3B
  9 Austin RC/SS/EH
@@ -16,7 +16,7 @@
  1 Patrick LF
  2 Cathy 2B
  3 Cole P
- 4 Sarah 3B
+ 4 SarahFM 3B
  5 Jeffrey 1B
  6 Sandya CA
  7 Austin SS
@@ -46,12 +46,12 @@
  8 Sandya CA
  9 Ryan RC
 10 Austin 3B -> Will 3B/LC
-   Sarah EH
+   SarahFM EH
    MarkG EH
    ----
    7 - 20140925 - Big Bats Bigger Balls
  1 Will CF/LF
- 2 Sarah 2B
+ 2 SarahFM 2B
  3 Seth LF -> Ryan CF
  4 Sandya CA
  5 Austin SS
@@ -66,7 +66,7 @@
  3 Cole P
  4 Whitney 3B/LF
  5 Jeffrey 1B
- 6 Sarah RF/EH
+ 6 SarahFM RF/EH
  7 Seth LC
  8 Cathy 2B
  9 Will EH/RC
@@ -79,7 +79,7 @@
  3 Mario RC -> Will RC
  4 Whitney LF
  5 Cole P
- 6 Sarah RF
+ 6 SarahFM RF
  7 Jeffrey 1B
  8 Cathy 2B
  9 Seth LC

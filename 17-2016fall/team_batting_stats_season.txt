@@ -1,0 +1,2 @@
+games, batters, inn,  PA,  AB,  R,   H, X2B, X3B, HR, RBI, BB, SO, SF, GDP,    BA,   OBP,   SLG,   OPS,    SA,     RC,     XR
+    6,      62,  36, 212, 191, 76, 100,  20,   6, 16,  76, 17, 27,  4,   2, 0.524, 0.552, 0.942, 1.494, 0.508, 76.855, 70.794

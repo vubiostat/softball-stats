@@ -1,0 +1,71 @@
+   1 - 20160524 - Rock Em Sock Em
+ 1 Michael LC
+ 2 Whitney 2B
+ 3 Jeffrey 1B
+ 4 Molly SS
+ 5 Cole P
+ 6 Hannah RF
+ 7 MarkG RC
+ 8 Jessica CA
+ 9 Will LF
+10 MarkL 3B
+   ---
+   2 - 20160531 - Bad Medicine
+ 1 Michael LC
+ 2 Whitney 2B
+ 3 Jeffrey 1B
+ 4 Molly SS
+ 5 Cole P
+ 6 Hannah CA -> Jessica CA
+ 7 Patrick LF
+ 8 Kelsey RF -> Lucy RF
+ 9 MarkG 3B
+10 Will RC
+   ----
+   3 - 20160607 - Misfits
+ 1 Michael CF/LC
+ 2 Michelle LF
+ 3 Jeffrey 1B
+ 4 Molly SS
+ 5 Cole P
+ 6 Whitney 2B -> Leena 2B
+ 7 Ian 3B
+ 8 Jessica CA
+ 9 MarkL SF -> Patrick RC
+10 Will RF
+   ----
+   4 - 20160621 - Reckers
+ 1 Michael LC
+ 2 Michelle LF
+ 3 Cole P
+ 4 Molly SS
+ 5 Will RC
+ 6 Kelsey CA
+ 7 MarkG 1B
+ 8 Hannah 2B
+ 9 NickX RF
+10 Austin 3B
+   ----
+   5 - 20160628 - Veritas
+ 1 Michael LC
+ 2 Molly SS
+ 3 Jeffrey 1B
+ 4 Kelsey RF
+ 5 Cole P
+ 6 Leena 2B
+ 7 Ian LF
+ 8 Jessica CA
+ 9 MarkG 3B
+10 Will RC
+   ----
+   7 - 20160712 - Sutures
+ 1 Michael LC
+ 2 Molly SS
+ 3 Jeffrey 1B
+ 4 Kelsey CA
+ 5 Cole P
+ 6 Michelle LF
+ 7 MarkL 3B
+ 8 Hannah 2B
+ 9 MarkG RF
+10 Will RC

@@ -1,0 +1,8 @@
+Date, Time, Field, Opponent, Result
+2017-07-11, 8:30 PM, 2, Rock Em Sock Em, L (5-14)
+2017-07-13, 7:30 PM, 2, Bad Medicine, L (10-14)
+2017-07-18, 7:30 PM, 2, Veritas, L (9-10)
+2017-07-20, 6:30 PM, 1, Reckers, L (8-9)
+2017-07-25, 6:30 PM, 1, Hats for Bats, W (12-9)
+2017-07-25, 7:30 PM, 2, Neuro, L (F)
+2017-08-01, 8:30 PM, 1, Sutures, L (10-22)

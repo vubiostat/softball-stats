@@ -1,0 +1,74 @@
+   2 - 20150526 - Sutures
+ 1 Will SS
+ 2 Whitney LF
+ 3 MarkL P
+ 4 Jessica CA
+ 5 MarkG RC/RF
+ 6 Lauren RF/RC
+ 7 FrankH 1B
+ 8 Amanda 2B
+ 9 Jeremy 3B
+10 Seth LC
+   ----
+   4 - 20150609 - Rock Em Sock Em
+ 1 Cole P
+ 2 Lauren 3B
+ 3 MarkL SS
+ 4 Whitney LF
+ 5 Jeffrey 1B
+ 6 SarahFM RF
+ 7 Seth LC
+ 8 Cathy 2B
+ 9 Will RC
+10 Cassidy CA
+11 FrankH EH
+   ----
+   5 - 20150616 - Misfits
+ 1 Cole P
+ 2 Lauren 3B
+ 3 Jeffrey 1B
+ 4 SarahFM RC
+ 5 Will LC
+ 6 Sandya RF
+ 7 Dave SS
+ 8 Cassidy CA
+ 9 FrankH 2B
+10 Bryan LF
+   ----
+   6 - 20150618 - Veritas
+ 1 MarkL CF
+ 2 Lauren 3B
+ 3 Jeffrey 1B
+ 4 Brandi LF
+ 5 Will SS
+ 6 Kylie CA
+ 7 Cole P
+ 8 Sandya RF
+ 9 FrankH 2B
+   ----
+   7 - 20150623 - Rock Em Sock Em
+ 1 Mario LC
+ 2 Michelle EH
+ 3 Jeffrey 1B
+ 4 Lauren 3B
+ 5 Cole SS
+ 6 Whitney LF
+ 7 MarkL P
+ 8 Jessica CA -> Cassidy CA
+ 9 Seth RC
+10 SarahFM RF
+11 FrankH EH
+12 Cathy 2B
+   ----
+   9 - 20150707 - Rock Em Sock Em
+ 1 Lauren 3B
+ 2 Seth RC
+ 3 Michelle LF
+ 4 Cole SS
+ 5 Whitney RF
+ 6 MarkL P
+ 7 Cathy 2B
+ 8 Will LC
+ 9 Cassidy CA
+10 FrankH 1B
+11 Jessica EH
